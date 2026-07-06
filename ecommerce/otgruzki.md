@@ -3,6 +3,8 @@ description: >-
   Модуль Отгрузки позволяет сформировать в одну отгрузку товары из разных
   заказов, при условии что это заказы одного клиента.
 icon: truck-ramp-box
+title: Отгрузки
+order: 0.96
 ---
 
 # Отгрузки
@@ -122,4 +124,3 @@ icon: truck-ramp-box
 
 
 {% embed url="https://youtu.be/3kPbJYNpxq0?t=1200" %}
-

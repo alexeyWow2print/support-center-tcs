@@ -1,6 +1,8 @@
 ---
 description: После создания скидки, в этом разделе вы можете оформить Скидочный баннер.
 icon: message-arrow-up
+title: Скидочный баннер
+order: 1.5
 ---
 
 # Скидочный баннер
@@ -64,8 +66,3 @@ icon: message-arrow-up
 Вид "Полоса сверху" с кнопкой с поведенческим фактором "Просмотр указанных страниц". Баннер разворачивается на полный экран.
 
 <figure><img src="../.gitbook/assets/MyCollages (1).jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-
-

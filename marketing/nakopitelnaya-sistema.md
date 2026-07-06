@@ -1,5 +1,7 @@
 ---
 icon: money-bill-trend-up
+title: Накопительная система
+order: 3
 ---
 
 # Накопительная система

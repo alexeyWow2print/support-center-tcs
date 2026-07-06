@@ -4,6 +4,8 @@ description: >-
   обращения будут аккумулироваться в данном разделе для последующей работы с
   ними.
 icon: comments-question-check
+title: Обращения с сайта
+order: 0.8
 ---
 
 # Обращения с сайта
@@ -133,4 +135,3 @@ icon: comments-question-check
 Пример коммерческого предложения:
 
 ![](<../.gitbook/assets/image (845).png>)
-
