@@ -16,12 +16,6 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
 ### **Отображение поля ввода отчества для клиента**
 
 <figure><img src="../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
@@ -40,10 +34,6 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-
-
-
-
 ### **Отображение поля ввода ИНН для клиента**
 
 <figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
@@ -51,10 +41,6 @@ description: >-
 При активации этой функции в форме регистрации клиента отобразится поле «ИНН». Оно не является обязательным для заполнения.
 
 <figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
 
 ### **Выбор менеджера при оформлении заказа на сайте**
 
@@ -74,10 +60,6 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-
-
-
-
 ### **Выбор менеджера при оформлении заказа в админ-панели**
 
 <figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
@@ -86,10 +68,6 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
 ### **Отображать личного менеджера**
 
 <figure><img src="../../.gitbook/assets/image (4105).png" alt=""><figcaption></figcaption></figure>
@@ -97,28 +75,20 @@ description: >-
 Если функция включена, в личном кабинете клиента (вкладки «Профиль» и «Заказы») будет отображаться закреплённый за клиентом менеджер.
 
 {% tabs %}
-{% tab title="Вкладка "Профиль"" %}
+{% tab title="Вкладка " %}
 <figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Вкладка "Заказы"" %}
+{% tab title="Вкладка " %}
 <figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
-
-
 
 ### **Запрашивать Индекс для доставки Почта России**
 
 <figure><img src="../../.gitbook/assets/image (4106).png" alt=""><figcaption></figcaption></figure>
 
 При активации параметра, клиенту при оформлении заказа в корзине, потребуется указать почтовый индекс при условии, что он выберет способ доставки «До двери».
-
-
-
-
 
 ### **Коммерческое предложение**
 
@@ -128,29 +98,17 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
 ### **Редактирование наименования в счёте**
 
 <figure><img src="../../.gitbook/assets/image (4108).png" alt=""><figcaption></figcaption></figure>
 
 Активация этой опции позволяет отобразить у каждого продукта в корзине функцию «Заполнить наименование в счёте». Если клиент впишет своё название, то в счёте будет отображаться именно оно, а не стандартное наименование продукта.
 
-
-
 <figure><img src="../../.gitbook/assets/image (4109).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
 
 ### **Приоритетный тип плательщика**
 
-<figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
 В выпадающем списке можно выбрать два варианта:
 
@@ -168,10 +126,6 @@ description: >-
 <figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
-
-
 
 ### **Приоритетный способ получения заказа**
 
@@ -192,10 +146,6 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-
-
-
-
 ### **Маска для телефона**
 
 <figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
@@ -209,10 +159,6 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
 ### **Примечание для доставки**
 
 <figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
@@ -221,9 +167,6 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
-
-
 {% hint style="warning" %}
 После настройки всех параметров не забудьте нажать **«Сохранить»**.
 {% endhint %}
-

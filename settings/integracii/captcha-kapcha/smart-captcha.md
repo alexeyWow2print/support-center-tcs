@@ -6,8 +6,6 @@
 
 Она автоматически активируется в ключевые моменты: при регистрации, авторизации или отправке форм обращений с сайта.
 
-
-
 ### Регистрация в Yandex Cloud
 
 1. Перейдите на [cloud.yandex.ru](https://cloud.yandex.ru/) и авторизуйтесь или зарегистрируйте новый аккаунт
@@ -15,13 +13,7 @@
    * Подтвердить страну проживания
    * Принять условия пользовательского соглашения (поставьте соответствующую галочку)
 
-<figure><img src="../../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
+<figure><img src="../../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
 ### Создание капчи
 
@@ -35,23 +27,11 @@
 
 <figure><img src="../../../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
 #### Шаг 2: Инициализация создания
 
 На странице SmartCaptcha нажмите кнопку **«Создать капчу»**.
 
 <figure><img src="../../../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
 
 #### Шаг 3: Настройка параметров
 
@@ -61,10 +41,6 @@
 * **Правая часть** — предпросмотр различных состояний (по умолчанию, успешно, загрузка, ошибка)
 
 <figure><img src="../../../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
 
 **Обязательные параметры:**
 
@@ -84,10 +60,6 @@
 
 <figure><img src="../../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
 #### Шаг 4: Создание
 
 Нажмите **«Создать капчу»** внизу страницы.
@@ -97,12 +69,6 @@
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/unknown (6).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
 
 ### Подключение к сайту
 
@@ -116,12 +82,6 @@
 
 <figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
 #### Шаг 2: Интеграция с TCS
 
 1. В админ-панели сайта (Настройки → Интеграции → CAPTCHA) откройте интеграцию SmartCaptcha
@@ -131,15 +91,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
-
-
 3. Сохраните изменения и убедитесь, что капча включена в списке Интеграций.
-
-
-
-
-
-
 
 ### Проверка работоспособности
 
@@ -151,16 +103,9 @@
 {% tabs %}
 {% tab title="Регистрация" %}
 <figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
-
-
 {% endtab %}
 
 {% tab title="Обращение с сайта" %}
 <figure><img src="../../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
-
-
-

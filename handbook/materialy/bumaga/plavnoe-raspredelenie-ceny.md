@@ -8,17 +8,11 @@ description: Плавное распределение цены материал
 
 Данный функционал необходим для сглаживания цен на материалы и операции в Справочнике.
 
-
-
 **В каких случаях может пригодиться "Плавное распределение цены".** Если вы указали в [Справочнике](../../) дифференцированные цены на материалы/операции в зависимости от тиража в заказе, то вам может пригодиться "Плавное распределение цены". Например, вы установили цену за лист меньше, при условии, что клиент закажет тираж больше.
 
 ![](<../../../.gitbook/assets/Screenshot_12 (8).png>)
 
-
-
 При **выключенном** параметре "_Плавное распределение цены_", стоимость тиража будет **не** равномерно распределена.
-
-
 
 {% hint style="info" %}
 **Пример**
@@ -31,32 +25,22 @@ description: Плавное распределение цены материал
 
 от 500 и более — 14 руб./лист
 
-
-
 Стоимость тиража в **499** листов будет равен:
 
-<mark style="background-color:green;">17 \* 499 =</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">**8 483**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">руб.</mark>
+<mark style="background-color:green;">17 \* 499 =</mark> <mark style="background-color:green;">**8 483**</mark> <mark style="background-color:green;">руб.</mark>
 
 Стоимость тиража в **550** лист будет равен:
 
-<mark style="background-color:green;">14 \* 550 =</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">**7 700**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">руб.</mark>
+<mark style="background-color:green;">14 \* 550 =</mark> <mark style="background-color:green;">**7 700**</mark> <mark style="background-color:green;">руб.</mark>
 
-
-
-_Результат: меньший тираж в 499 листов стоит_ <mark style="background-color:red;"><mark style="color:red;">дороже<mark style="color:red;"></mark>_, чем больший тираж в 550 лист_
+_Результат: меньший тираж в 499 листов стоит_ <mark style="color:red;"><mark style="background-color:red;">дороже<mark style="background-color:red;"></mark>_<mark style="color:red;"><mark style="background-color:red;">, чем больший тираж в 550 лист<mark style="background-color:red;"></mark>_
 {% endhint %}
-
-
 
 ![](<../../../.gitbook/assets/Frame 2 (3).png>)
 
 ## 2. Принцип работы
 
-
-
 Если включить параметр "_Плавное распределение цены_", то цены за лист будут планомерно распределены от одной ценовой границы к другой с определенным ценовым шагом, рассчитанным по следующей логике:
-
-
 
 {% hint style="info" %}
 * Находим диапазон, в который входит значение клиентского тиража. Например, клиент заказывает 300 листов, из нашего вышеупомянутого примера, этот тираж входит в диапазон 100 — 500 л.;
@@ -85,19 +69,10 @@ _Результат: меньший тираж в 499 листов стоит_ <
     <mark style="background-color:green;">**15,5 \* 300 = 4 650 руб.**</mark>
 {% endhint %}
 
-
-
 ![](<../../../.gitbook/assets/Frame 3.png>)
-
-
 
 ## 3. Реализация
 
-
-
 Включите в Справочнике в Материале/Опреации/Доп.опреации/Комплектующих "Плавное распределение цены".
 
-
-
 ![](<../../../.gitbook/assets/Screenshot_11 (4).png>)
-

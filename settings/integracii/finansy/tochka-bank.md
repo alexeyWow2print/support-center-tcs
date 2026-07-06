@@ -10,31 +10,13 @@
 
 <figure><img src="../../../.gitbook/assets/image (3980).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
 4. Вы перейдёте на страницу **«Интеграции и API»**. Нажмите на кнопку **«Подключить»**.
 
 <figure><img src="../../../.gitbook/assets/image (3981).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
 5. На следующей странице выберите пункт **«Зарегистрировать oAuth 2.0 приложение»**.
 
 <figure><img src="../../../.gitbook/assets/image (3982).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
 
 ### **Шаг 2: Регистрация oAuth-приложения**
 
@@ -51,12 +33,6 @@
 
 <figure><img src="../../../.gitbook/assets/image (3984).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
 ### **Шаг 3: Получение ключей доступа (Client ID и Client Secret)**
 
 После успешной регистрации система отобразит страницу с данными вашего приложения. Вам потребуются:
@@ -67,12 +43,6 @@
 Эти данные понадобятся в следующем шаге. Посмотреть их вы сможете в любое время, они останутся доступными.
 
 <figure><img src="../../../.gitbook/assets/image (3985).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
 
 ### **Шаг 4: Настройка интеграции в админ-панели ТКС**
 
@@ -86,12 +56,6 @@
 
 <figure><img src="../../../.gitbook/assets/image (3986).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
 ### **Шаг 5: Предоставление прав доступа в Точка Банке**
 
 После сохранения данных браузер автоматически перенаправит вас на сайт Точка Банка для подтверждения прав доступа.
@@ -101,25 +65,13 @@
 
 <figure><img src="../../../.gitbook/assets/image (3988).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-
-
 3. На следующей странице настройте срок доступа:
 
 * В поле **«Срок доступа»** выберите значение **«Бессрочно»**.
 * Поставьте галочку в пункте **«Соглашение о предоставлении персональных данных...»**.
 * Нажмите кнопку **«Сохранить»**.
 
-<figure><img src="../../../.gitbook/assets/image (3990).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
+<figure><img src="../../../.gitbook/assets/image (3989).png" alt=""><figcaption></figcaption></figure>
 
 ### **Шаг 6: Завершение процесса**
 
@@ -127,9 +79,4 @@
 
 <figure><img src="../../../.gitbook/assets/Screenshot_9 (14).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
 **Готово!** Интеграция успешно настроена. Теперь вы можете автоматически отмечать оплаченные счета из Точка Банка в нашей системе.
-

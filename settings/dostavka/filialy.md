@@ -8,13 +8,11 @@ description: >-
 
 ## Филиалы (офис компании)
 
-### &#x20;**Создание филиала**
+### **Создание филиала**
 
 Чтобы добавить филиал, нажмите кнопку "Добавить" в правом верхнем углу.
 
 <figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
-
-
 
 В открывшейся форме заполните следующие данные:
 
@@ -25,8 +23,6 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
-
-
 После сохранения настроек появится дополнительное поле **"Выбор городов**_**"**,_ внесите в него города, которые будет охватывать данный филиал.
 
 <figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
@@ -35,22 +31,18 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ### **Пункты выдачи**
 
 Пункты выдачи будут отображаться в корзине, как вариант **Самовывоз** из типографии.
 
-<figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 ### **Создание пунктов выдачи**
 
-После сохранения настроек филиала, появится новая вкладка - **"Пункты выдачи"**. \
+После сохранения настроек филиала, появится новая вкладка - **"Пункты выдачи"**.\
 Переходим в нее и нажимаем **"Добавить"**.
 
 <figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
-
-
 
 В открывшейся форме заполните следующие данные:
 
@@ -62,13 +54,9 @@ description: >-
 
 ![](<../../.gitbook/assets/image (1810).png>)
 
-
-
 После создания пункта выдачи, в него можно внести дополнительные настройки. Напротив названия пункта выдачи нажмите на иконку карандаша ![](<../../.gitbook/assets/image (215).png>) (редактировать).
 
 <figure><img src="../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### Настройки пункта самовывоза (координаты)
 
