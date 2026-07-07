@@ -1,6 +1,6 @@
 ---
-order: 1.5
-title: 🖥️ Рабочий стол
+order: 4
+title: 🖥️ Рабочий стол.
 ---
 
 [view:hierarchy=none::::List]

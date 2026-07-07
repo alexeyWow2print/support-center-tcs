@@ -22,70 +22,42 @@ order: 0.8
 
 Раздел, полностью администрирующий процесс движения заказов: от обращений с сайта до заказов, тиражей, закрывающих документов и актов сверки. Содержит все данные по контрагентам: Клиенты/Покупатели/Плательщики/Группы/Корпоративные кабинеты клиентов.
 
-\{% content-ref url="../ecommerce/" %} [ecommerce](./../ecommerce/_index)
-
-\{% endcontent-ref %}
 
 
+### [Продукция](./../product/_index)
 
-### Продукция
-
-В данном разделе группируется, создается, редактируется и удаляется вся продукция (в т.ч. [калькуляция продукции](./../product/produkty/vkladka-kalkulyaciya/_index)), как отображаемая на сайте, так и находящаяся в процессе создания калькуляции.
-
-\{% content-ref url="../product/" %} [product](./../product/_index)
-
-\{% endcontent-ref %}
+В данном разделе группируется, создается, редактируется и удаляется вся продукция (в т.ч. [калькуляция продукции](./../product/produkty/vkladka-kalkulyaciya/dopolnitelnye-knopki/knopka-proverka-kalkulyacii)), как отображаемая на сайте, так и находящаяся в процессе создания калькуляции.
 
 
 
-### Маркетинг
+### [Маркетинг](./../marketing/_index)
 
 Здесь вы можете создать [скидки](./../marketing/skidki), реферальные программы, промокоды, оформить [скидочный баннер](./../marketing/skidochnyi-banner) на сайте, а также произвести корректировку цен.
 
-\{% content-ref url="../marketing/" %} [marketing](./../marketing/_index)
-
-\{% endcontent-ref %}
 
 
-
-### Контент
+### [Контент](./../content/_index)
 
 Раздел, отвечающий за визуальное наполнение сайта, в данном разделе создаются новые страницы сайта, корректируется меню, новости, галереи изображений и другое.
 
-В подразделе [Виджеты](./../content/vidzhety/_index) вы можете создать следующие виджеты: [Таймер](/broken/pages/-M6o47kDkX75-JmoW1xk), [Рекомендуемые продукты](/broken/pages/-M6o47_gbdJbAlz1ry8w), [Галерея](/broken/pages/-M6o47vkaOka7f4O0SPQ), [Каталог товаров](/broken/pages/-M6o47NwVkxzTp4yuZZn), [Новости/Блог,](/broken/pages/-M6o48BvhMl-1a08ITg5) Сувенирная продукция --  Проект 111 и  Happy Gifts (в случае, если подключены данные модули). Подраздел [SEO](./../content/seo/_index) содержит инструменты для продвижения сайта: 301 редирект, Канонические ссылки, Карта сайта Sitemap, Файл robots.txt, Мета-тэги.
-
-\{% content-ref url="../content/" %} [content](./../content/_index)
-
-\{% endcontent-ref %}
+В подразделе [Виджеты](./../content/vidzhety/README) вы можете создать следующие виджеты: [Таймер](./../content/vidzhety/vidzhet-taimer), [Рекомендуемые продукты](./../content/vidzhety/vidzhet-rekomenduemaya-produkciya), Галерея, [Каталог товаров](./../content/vidzhety/vidzhet-katalog-tovarov), [Новости/Блог](./../content/vidzhety/vidzhet-novosti-blog). Подраздел [SEO](./../content/seo/_index) содержит инструменты для продвижения сайта: 301 редирект, Канонические ссылки, Карта сайта Sitemap, Файл robots.txt, Мета-тэги.
 
 
 
-### Справочник
+### [Справочник](./../handbook/_index)
 
 В этом разделе создаются, редактируются, удаляются и группируются все составляющие калькуляции продукта: Материалы, Операции, Доп. операции, Комплектующие, Товары, Свойства, Упаковка, Продукция.
 
-\{% content-ref url="../handbook/" %} [handbook](./../handbook/_index)
-
-\{% endcontent-ref %}
 
 
-
-### Отчёты
+### [Отчёты](./../otchety)
 
 Здесь вы можете сформировать отчет по клиентам, плательщикам, заказам, товарам, обращениям с сайта, отгрузкам, коммерческим предложениям и мотивации менеджеров и т.д.
 
-\{% content-ref url="../reports.md" %} [reports.md](./../reports)
-
-\{% endcontent-ref %}
 
 
-
-### Настройки
+### [Настройки](./../settings/_index)
 
 В данном разделе вы можете управлять настройками Пользователей, Статусов, Доставки, Оплаты, Сайта, а также  интегрироваться с транспортными компаниями, платежными системами и другими сервисами (Интеграции).
 
 В подразделе Другие настройки вы можете внести контактные данные ([Контактные данные](./../settings/drugie-nastroiki/kontaktnye-dannye)), настроить почтовый сервер ([Настройка почтового сервера](./../settings/drugie-nastroiki/nastroika-pochtovogo-servera)), сделать шаблоны e-mail-писем ([Шаблоны e-mail-писем](./../settings/drugie-nastroiki/shablony-email-pisem)),  установить выходные и нерабочие дни в [Производственном календаре](./../settings/drugie-nastroiki/proizvodstvennyi-kalendar), внести свои шаблоны в сроки производства ([Шаблонов сроков производства](./../settings/drugie-nastroiki/shablony-srokov-proizvodstva)), сделать выгрузку на FTP сервер ([Настройка FTP сервера](./../settings/drugie-nastroiki/nastroika-ftp-servera)), отрегулировать работу с макетом  в подразделе [Работа с макетом](./../settings/drugie-nastroiki/rabota-s-maketom/_index), изменить шаблон информации в настройках калькуляции ([Настройка калькуляции](./../settings/drugie-nastroiki/nastroika-kalkulyacii)).
-
-\{% content-ref url="../settings/" %} [settings](./../settings/_index)
-
-\{% endcontent-ref %}

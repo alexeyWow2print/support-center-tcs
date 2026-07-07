@@ -1,6 +1,6 @@
 ---
-order: 2.749377
-title: 💬 FAQ — Частые вопросы
+order: 14
+title: 💬 FAQ — Частые вопросы.
 ---
 
 [view:hierarchy=none::::List]

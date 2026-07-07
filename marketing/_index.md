@@ -1,6 +1,6 @@
 ---
-order: 1.96
-title: 📈 Маркетинг
+order: 7
+title: 📈 Маркетинг.
 ---
 
 [view:hierarchy=none::::List]

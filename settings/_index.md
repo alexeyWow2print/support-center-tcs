@@ -1,6 +1,6 @@
 ---
-order: 2.498752
-title: 🛠️ Настройки
+order: 13
+title: 🛠️ Настройки.
 ---
 
 [view:hierarchy=none::::List]

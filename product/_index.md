@@ -1,6 +1,6 @@
 ---
-order: 1.9
-title: 🛍️ Продукция
+order: 6
+title: 🛍️ Продукция.
 ---
 
 [view:hierarchy=none::::List]
@@ -13,8 +13,8 @@ title: 🛍️ Продукция
 
 Категория продукции может отображаться калькуляцией (в виде продукта), но все же их можно друг от друга отличить:
 
--  В адресной строке категория имеет вид -- demo.wow2print.com**/vizitki**
+-  В адресной строке категория имеет вид -- demo.wow2print.com\*\*/vizitki\*\*
 
--  Продукт -- demo.wow2print.com**/produkciya/vizitki.html**
+-  Продукт -- demo.wow2print.com\*\*/produkciya/vizitki.html\*\*
 
 \{% endhint %}
