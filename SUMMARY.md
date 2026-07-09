@@ -1,319 +1,656 @@
 ---
-title: Table of contents
-order: 1
+title: 👨‍🔧 Добро пожаловать в центр поддержки TCS
+order: 3.5
 ---
 
+![](./SUMMARY.png "Выберите из \"Разделов\" ↓ или опишите проблему в строке поиска выше справа ↑"){width=750px height=150px}
+
+
+
+:::info 
+
+## **Чем полезна Справка и как ей пользоваться**
+
+В справке можно легко и быстро найти информацию на большинство вопросов по функционалу сервиса TCS.
+
+Для удобства пользования, каждый раздел Справки соответствует разделу в Админ-панели сайта.
+
+Чтобы найти ответ уже на существующий вопрос, перейдите в интересующий вас раздел или воспользуйтесь поиском в правом верхнем углу экрана.
+
+:::
+
+
+
+## **Подробнее о всех разделах нашего сервиса:**
+
 -  [👨‍🔧 Добро пожаловать в центр поддержки TCS](./README)
+
 -  [🖥️ Рабочий стол](./rabochii-stol/README)
+
    -  [Верхняя панель](./dashboard/verkhnyaya-panel)
+
    -  [Панель главного меню](./dashboard/panel-glavnogo-menyu)
+
    -  [Панель быстрого доступа](./dashboard/panel-bystrogo-dostupa)
+
    -  [Техническая поддержка (Service Desk)](./dashboard/tekhnicheskaya-podderzhka)
+
    -  [Последние заказы](./dashboard/poslednie-zakazy)
+
    -  [Информационный блок](./dashboard/informacionnyi-blok)
+
 -  [🛒 Магазин](./magazin/README)
+
    -  [Заказы/Товары/Услуги](./ecommerce/zakazy/README)
+
       -  [Вкладка Товары](./ecommerce/zakazy/vkladka-tovary)
+
       -  [Вкладка Услуги](./ecommerce/zakazy/vkladka-uslugi)
+
       -  [Функционал заказа](./ecommerce/README)
+
          -  [Документы](./ecommerce/zakazy/zakaz-v-admin-paneli/dokumenty/README)
+
             -  [Технологическая карта](./ecommerce/zakazy/zakaz-v-admin-paneli/dokumenty/tekhnologicheskaya-karta)
+
             -  [Этикетки](./ecommerce/zakazy/zakaz-v-admin-paneli/dokumenty/etiketki)
+
          -  [📦 Изменить доставку в заказе](./ecommerce/zakazy/zakaz-v-admin-paneli/izmenit-dostavku-v-zakaze)
+
    -  [Обращения с сайта](./ecommerce/obrasheniya-s-saita)
+
    -  [Тиражи](./ecommerce/sbornye-tirazhi)
+
    -  [Отгрузки](./ecommerce/otgruzki)
+
    -  [Проекты](./ecommerce/proekty)
+
    -  [Бухгалтерия](./ecommerce/bukhgalteriya/README)
+
       -  [Счета клиентов (дебет)](./ecommerce/bukhgalteriya/scheta-klientov-debet)
+
       -  [Счета поставщиков (кредит) для агентств](./ecommerce/bukhgalteriya/scheta-postavshikov-kredit-dlya-agentstv)
+
       -  [Реализация](./ecommerce/bukhgalteriya/realizaciya)
+
       -  [Акты сверок](./ecommerce/bukhgalteriya/akty-sverok)
+
       -  [Возвраты](./ecommerce/bukhgalteriya/vozvraty)
+
    -  [Контрагенты](./ecommerce/kontragenty)
+
    -  [Корпоративная платформа](./ecommerce/korporativnaya-platforma)
+
    -  [Связь Поставщик - Агентство](./ecommerce/svyaz-postavshik-agenstvo)
+
 -  [🛍️ Продукция](./produkciya/README)
+
    -  [Категории продукции](./product/kategorii)
+
    -  [Продукт](./product/produkty/README)
+
       -  [Вкладка Общие](./product/produkty/vkladka-obshie)
+
       -  [Вкладка Изображения](./product/produkty/vkladka-izobrazheniya)
+
       -  [Вкладка Калькуляция](./product/produkty/vkladka-kalkulyaciya/README)
+
          -  [Панель переключения режимов](./product/produkty/vkladka-kalkulyaciya/panel-pereklyucheniya-rezhimov)
+
          -  [Дополнительные кнопки](./product/produkty/vkladka-kalkulyaciya/dopolnitelnye-knopki/README)
+
             -  [Настройки](./product/produkty/vkladka-kalkulyaciya/dopolnitelnye-knopki/nastroiki)
+
             -  [Калькуляция в таблице](./product/produkty/vkladka-kalkulyaciya/dopolnitelnye-knopki/knopka-kalkulyaciya-v-tablice)
+
             -  [Проверка калькуляции](./product/produkty/vkladka-kalkulyaciya/dopolnitelnye-knopki/knopka-proverka-kalkulyacii)
+
             -  [Продукт на сайте](./product/produkty/vkladka-kalkulyaciya/dopolnitelnye-knopki/knopka-produkt-na-saite)
+
          -  [Базовые модули](./product/produkty/vkladka-kalkulyaciya/osnovnye-moduli/README)
+
             -  [Размеры](./product/produkty/vkladka-kalkulyaciya/osnovnye-moduli/razmery)
+
             -  [Тиражность](./product/produkty/vkladka-kalkulyaciya/osnovnye-moduli/tirazhnost)
+
             -  [Сроки производства](./product/produkty/vkladka-kalkulyaciya/osnovnye-moduli/sroki-proizvodstva)
+
          -  [Все модули](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/README)
+
             -  [Детали](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/detali)
+
             -  [Заголовки](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/zagolovki)
+
             -  [Модуль «Печать»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-pechat)
+
             -  [Модуль «Комплектующие»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-komplektuyushie)
+
             -  [Модуль «Текстовое поле»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-tekstovoe-pole)
+
             -  [Модуль «Загрузка файла»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-zagruzka-faila)
+
             -  [Модуль «Многостраничность»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-mnogostranichnost)
+
             -  [Модуль «Преднастройки»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-prednastroiki)
+
             -  [Модуль «Количество видов»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-kolichestvo-vidov)
+
             -  [Модуль «Ламинирование»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-laminirovanie)
+
             -  [Модуль «Гильотинная резка»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-gilotinnaya-rezka)
+
             -  [Модуль «Плоттерная резка»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-plotternaya-rezka)
+
             -  [Модуль «Резка углов»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-rezka-uglov)
+
             -  [Модуль «Фальцевание»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-falcevanie)
+
             -  [Модуль «Каширование»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-kashirovanie)
+
             -  [Модуль «Установка люверсов»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-ustanovka-lyuversov)
+
             -  [Модуль «Фольгирование»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-folgirovanie)
+
             -  [Модуль «Лакирование»](./product/produkty/vkladka-kalkulyaciya/moduli-iz-spravochnika/modul-lakirovanie)
+
       -  [Вкладка Контент](./product/produkty/untitled-2)
+
       -  [Вкладка Фотогалерея](./product/produkty/untitled-1)
+
       -  [Вкладка SEO](./product/produkty/vkladka-seo)
+
       -  [Вкладка Перевод](./product/produkty/vkladka-perevod)
+
    -  [Теги (фильтр продукции)](./product/tegi-filtr-produkcii)
+
 -  [📈 Маркетинг](./marketing/README)
+
    -  [Скидки](./marketing/skidki)
+
    -  [Бонусная система](./marketing/bonusnaya-sistema)
+
    -  [Скидочный баннер](./marketing/skidochnyi-banner)
+
    -  [Корректировка цен](./marketing/korrektirovka-cen)
+
    -  [Подарочный сертификат](./marketing/podarochnyi-sertifikat)
+
    -  [Накопительная система](./marketing/nakopitelnaya-sistema)
+
 -  [📝 Контент](./kontent/README)
+
    -  [Наполнение сайта](./content/untitled/README)
+
       -  [Страницы](./content/untitled/stranicy/README)
+
          -  [Шаблоны](./content/untitled/stranicy/shablony)
+
       -  [Файлы](./content/untitled/faily)
+
       -  [Новости / блог](./content/untitled/novosti-blog)
+
       -  [Меню](./content/untitled/menyu/README)
+
          -  [Верхнее меню](./content/untitled/menyu/verkhnee-menyu)
+
          -  [Футер](./content/untitled/menyu/futer)
+
       -  [Галереи](./content/untitled/galerei)
+
       -  [Изображения](./content/untitled/izobrazheniya)
+
       -  [Дизайны](./content/untitled/dizainy)
+
    -  [Виджеты](./content/vidzhety/README)
+
       -  [Виджет «Каталог товаров»](./content/vidzhety/vidzhet-katalog-tovarov)
+
       -  [Виджет «Рекомендуемая продукция»](./content/vidzhety/vidzhet-rekomenduemaya-produkciya)
+
       -  [Виджет «Таймер»](./content/vidzhety/vidzhet-taimer)
+
       -  [Виджет «Фото-карусель»](./content/vidzhety/vidzhet-foto-karusel)
+
       -  [Виджет «Новости / блог»](./content/vidzhety/vidzhet-novosti-blog)
+
       -  [Виджет «Калькуляция продукции»](./content/vidzhety/vidzhet-kalkulyaciya-produkcii)
+
       -  [Виджет «Исходный код»](./content/vidzhety/vidzhet-iskhodnyi-kod)
+
       -  [Виджет «Карта с ПВЗ»](./content/vidzhety/vidzhet-karta-s-pvz)
+
       -  [Виджет «Ссылки / перелинковка»](./content/vidzhety/vidzhet-ssylki-perelinkovka)
+
       -  [Виджет «Слайдер»](./content/vidzhety/vidzhet-slaider)
+
       -  [Виджет «Как работает онлайн-заказ»](./content/vidzhety/vidzhet-kak-rabotaet-onlain-zakaz)
+
       -  [Виджет «Логотипы»](./content/vidzhety/vidzhet-logotipy)
+
       -  [Виджет «Преимущества»](./content/vidzhety/vidzhet-preimushestva)
+
       -  [Виджет «Преимущества Mini»](./content/vidzhety/vidzhet-preimushestva-mini)
+
       -  [Виджет «Рекламный баннер»](./content/vidzhety/vidzhet-reklamnyi-banner)
+
       -  [Виджет «Числовые данные»](./content/vidzhety/vidzhet-chislovye-dannye)
+
       -  [Виджет «Форма обратной связи»](./content/vidzhety/vidzhet-forma-obratnoi-svyazi)
+
       -  [Виджет «Отзывы»](./content/vidzhety/vidzhet-otzyvy)
+
       -  [Виджет «О типографии»](./content/vidzhety/vidzhet-o-tipografii)
+
       -  [Виджет «Дизайны»](./content/vidzhety/vidzhet-dizainy)
+
       -  [Виджет «Форма обратной связи»](./content/vidzhety/vidzhet-forma-obratnoi-svyazi-1)
+
    -  [SEO](./content/seo/README)
+
       -  [Общие настройки](./content/seo/obshie-nastroiki)
+
       -  [301 редирект](./content/seo/301-redirekt)
+
       -  [Метатеги](./content/seo/metategi)
+
       -  [Карта сайта (sitemap)](./content/seo/karta-saita-sitemap)
+
       -  [Файл robots.txt](./content/seo/fail-robots.txt)
+
       -  [Обход сайта](./content/seo/obkhod-saita)
+
 -  [📗 Справочник](./spravochnik/README)
+
    -  [Материалы](./handbook/materialy/README)
+
       -  [Бумага](./handbook/materialy/bumaga/README)
+
          -  [Создание Групп/папок материалов](./handbook/materialy/bumaga/sozdanie-grupp-papok-materialov)
+
          -  [Создание Материала Бумаги/Вкладка Описание](./handbook/materialy/bumaga/sozdanie-materiala-bumagi-vkladka-opisanie)
+
          -  [💥 Плавное распределение цены](./handbook/materialy/bumaga/plavnoe-raspredelenie-ceny)
+
          -  [Вкладка Фотогалерея](./handbook/materialy/bumaga/vkladka-fotogalereya)
+
          -  [Вкладка Свойства](./handbook/materialy/bumaga/vkladka-svoistva)
+
          -  [Вкладка Цены](./handbook/materialy/bumaga/vkladka-ceny)
+
          -  [Массовое добавление новых материалов Бумага](./handbook/materialy/bumaga/massovoe-dobavlenie-novykh-materialov)
+
       -  [Ламинация](./handbook/materialy/laminaciya/README)
+
          -  [Создание Групп/папок материалов](./handbook/materialy/laminaciya/sozdanie-grupp-papok-materialov)
+
          -  [Создание материала ламинации](./handbook/materialy/laminaciya/sozdanie-materiala-laminacii)
+
          -  [Вкладка Фотогалерея](./handbook/materialy/laminaciya/vkladka-fotogalereya)
+
          -  [Вкладка Свойства](./handbook/materialy/laminaciya/vkladka-svoistva)
+
          -  [Вкладка Цены](./handbook/materialy/laminaciya/ceny)
+
    -  [Операции](./handbook/operacii/README)
+
       -  [Печать](./handbook/operacii/pechat)
+
       -  [Взаимосвязь Форматов/Ширины рулона в Печати и Бумаге](./handbook/operacii/vzaimosvyaz-formatov-shiriny-rulona-v-pechati-i-bumage)
+
    -  [Доп. операции](./spravochnik/dop.-operacii/README)
+
       -  [Создание групп доп. операций](./handbook/dop.-operacii/sozdanie-grupp-dop.-operacii)
+
       -  [Операция Ламинирование](./spravochnik/dop.-operacii/operaciya-laminirovanie)
+
       -  [Гильотинная резка](./handbook/dop.-operacii/rezka)
+
       -  [Плоттерная резка](./spravochnik/dop.-operacii/plotternaya-rezka)
+
       -  [Резка углов](./handbook/dop.-operacii/rezka-uglov)
+
       -  [Фальцевание](./spravochnik/dop.-operacii/falcevanie)
+
       -  [Каширование](./spravochnik/dop.-operacii/kashirovanie)
+
       -  [Брошюровка/переплет](./spravochnik/dop.-operacii/broshyurovka-pereplet)
+
       -  [Установка люверсов](./handbook/dop.-operacii/ustanovka-lyuversov)
+
       -  [Тиснение/Эмбоссирование](./handbook/dop.-operacii/tisnenie-embossirovanie)
+
       -  [Штрих-код](./handbook/dop.-operacii/shtrikh-kod)
+
       -  [Скретч-полоса](./handbook/dop.-operacii/skretch-polosa)
+
       -  [Фольгирование](./spravochnik/dop.-operacii/folgirovanie)
+
       -  [Лакирование](./spravochnik/dop.-operacii/lakirovanie)
+
       -  [Полоса для подписи](./handbook/dop.-operacii/polosa-dlya-podpisi)
+
       -  [Чипирование](./spravochnik/dop.-operacii/chipirovanie)
+
       -  [Магнитная полоса](./spravochnik/dop.-operacii/magnitnaya-polosa)
+
       -  [Сборка](./handbook/dop.-operacii/sborka)
+
       -  [Проклейка](./handbook/dop.-operacii/prokleika)
+
       -  [Натяжка на подрамник](./spravochnik/dop.-operacii/natyazhka-na-podramnik)
+
       -  [Высечка](./handbook/dop.-operacii/vysechka)
+
       -  [Перфорация](./spravochnik/dop.-operacii/perforaciya)
+
    -  [Комплектующие](./handbook/komplektuyushie/README)
+
       -  [Создание групп Комплектующих](./handbook/komplektuyushie/sozdanie-grupp-koplektuyushikh)
+
       -  [Пружина...](./handbook/komplektuyushie/pruzhina)
+
       -  [Люверс](./handbook/komplektuyushie/lyuvers)
+
       -  [Численник](./handbook/komplektuyushie/chislennik)
+
       -  [Магнитное полотно](./handbook/komplektuyushie/magnitnoe-polotno)
+
       -  [Лосьон/ароматизатор](./handbook/komplektuyushie/loson-aromatizator)
+
       -  [Курсор](./handbook/komplektuyushie/kursor)
+
       -  [Замок и цепь](./handbook/komplektuyushie/zamok-i-cep)
+
       -  [Подрамник](./handbook/komplektuyushie/podramnik)
+
       -  [Фольга](./handbook/komplektuyushie/folga)
+
       -  [Другие комплектующие](./handbook/komplektuyushie/drugie-komplektuyushie)
+
    -  [Товары](./handbook/tovary/README)
+
       -  [Создание групп Товаров](./handbook/tovary/sozdanie-grupp-tovarov)
+
       -  [Заполнение Товара](./handbook/tovary/zapolnenie-tovara)
+
    -  [Свойства](./handbook/svoistva/README)
+
       -  [Формат](./handbook/svoistva/format)
+
       -  [Ширина рулона](./handbook/svoistva/untitled-7)
+
       -  [Плотность](./handbook/svoistva/untitled-6)
+
       -  [Толщина](./handbook/svoistva/untitled-5)
+
       -  [Доп.услуги](./handbook/svoistva/untitled-4)
+
       -  [Цвет](./handbook/svoistva/untitled-3)
+
       -  [Теги](./handbook/svoistva/untitled-2)
+
       -  [Свойства Комплектующих](./handbook/svoistva/untitled-1)
+
       -  [Группировка](./handbook/svoistva/untitled)
+
    -  [Упаковка](./handbook/upakovka)
+
    -  [Продукция](./handbook/produkciya/README)
+
       -  [Детали](./handbook/produkciya/detali)
+
       -  [Размеры](./handbook/produkciya/untitled-1)
+
 -  [🧰 Конструктор](./konstruktor/README)
+
    -  [Конструкторы](./konstruktor/konstruktory/README)
+
       -  [Стандарт (Полиграфия)](./konstruktor/konstruktory/standart-poligrafiya)
+
       -  [Фотокнига](./konstruktor/konstruktory/fotokniga)
+
       -  [Фотокарточка](./konstruktor/konstruktory/fotokartochka)
+
       -  [Фотокалендарь](./konstruktor/konstruktory/fotokalendar)
+
    -  [Дизайны](./konstruktor/dizainy)
+
    -  [Фотобанк](./konstruktor/fotobank)
+
    -  [Настройки конструктора](./konstruktor/nastroiki-konstruktora)
+
    -  [Стили календарей](./konstruktor/stili-kalendarei)
+
    -  [Цветовая палитра](./konstruktor/cvetovaya-palitra)
+
    -  [Праздничные дни](./konstruktor/prazdnichnye-dni)
+
    -  [Инструкции](./konstruktor/instrukcii)
+
    -  [Шрифты](./konstruktor/shrifty)
+
 -  [📊 Отчёты](./reports)
+
 -  [🛠️ Настройки](./nastroiki/README)
+
    -  [Пользователи](./settings/polzovateli-1/README)
+
       -  [Пользователи](./settings/polzovateli-1/polzovateli)
+
       -  [Роли и доступы](./settings/polzovateli-1/roli-i-dostupy)
+
       -  [Настройка менеджеров](./settings/polzovateli-1/nastroika-menedzherov)
+
       -  [Мотивация менеджеров](./settings/polzovateli-1/motivaciya-menedzherov)
+
    -  [Статусы](./settings/statusy/README)
+
       -  [Статусы заказов](./settings/statusy/statusy-zakazov/README)
+
          -  [Создание статусов](./settings/statusy/statusy-zakazov/sozdanie-statusov)
+
          -  [Цветовая сигнализация статусов](./settings/statusy/statusy-zakazov/cvetovaya-signalizaciya-statusov)
+
          -  [Оповещение клиентов о смене статусов](./settings/statusy/statusy-zakazov/opoveshenie-klientov-o-smene-statusov)
+
          -  [Отбраковка макетов](./settings/statusy/statusy-zakazov/otbrakovka-maketov)
+
          -  [Формирование тиража и отгрузки](./settings/statusy/statusy-zakazov/formirovanie-tirazha-i-otgruzki)
+
          -  [Закрывающие документы](./settings/statusy/statusy-zakazov/zakryvayushie-dokumenty)
+
          -  [Вкладки заказов/товаров](./settings/statusy/statusy-zakazov/vkladki-zakazov-tovarov)
+
          -  [Тип заказа](./settings/statusy/statusy-zakazov/tip-zakaza)
+
          -  [Срок оплаты заказа](./settings/statusy/statusy-zakazov/srok-oplaty-zakaza)
+
          -  [Правила назначения статусов](./settings/statusy/statusy-zakazov/pravila-naznacheniya-statusov)
+
       -  [Статусы сборных тиражей](./settings/statusy/statusy-sbornykh-tirazhei/README)
+
          -  [Создание статусов тиражей](./settings/statusy/statusy-sbornykh-tirazhei/sozdanie-statusov-tirazhei)
+
          -  [Цветовая сигнализация статусов и сроков исполнения (сборные тиражи)](./settings/statusy/statusy-sbornykh-tirazhei/cvetovaya-signalizaciya-statusov-i-srokov-ispolneniya)
+
          -  [Сопоставление статусов тиражей со статусами товаров](./settings/statusy/statusy-sbornykh-tirazhei/sopostavlenie-so-statusom-tovara)
+
          -  [Вкладки тиражей](./settings/statusy/statusy-sbornykh-tirazhei/vkladki-tirazhei)
+
       -  [Статусы отгрузок](./settings/statusy/statusy-otgruzok/README)
+
          -  [Создание статусов отгрузок](./settings/statusy/statusy-otgruzok/sozdanie-statusov-otgruzok)
+
          -  [Цветовая сигнализация статусов и сроков исполнения](./settings/statusy/statusy-otgruzok/cvetovaya-signalizaciya-statusov-i-srokov-ispolneniya)
+
          -  [Сопоставление статусов отгрузок со статусами товаров](./settings/statusy/statusy-otgruzok/sopostavlenie-so-statusom-tovara)
+
          -  [Вкладки Отгрузок](./settings/statusy/statusy-otgruzok/vkladki-otgruzok)
+
       -  [Статусы обращений с сайта](./settings/statusy/statusy-obrashenii-s-saita/README)
+
          -  [Создание статусов обращений](./settings/statusy/statusy-obrashenii-s-saita/sozdanie-statusov-obrashenii)
+
          -  [Цветовое обозначение статусов обращения](./settings/statusy/statusy-obrashenii-s-saita/untitled-2)
+
          -  [Сопоставление статусов обращения с вкладками](./settings/statusy/statusy-obrashenii-s-saita/untitled-1)
+
          -  [Удаление статусов обращений с сайта и вкладок](./settings/statusy/statusy-obrashenii-s-saita/untitled)
+
       -  [Правила назначения статусов](./settings/statusy/pravila-naznacheniya-statusov)
+
    -  [Доставка](./settings/dostavka/README)
+
       -  [Доставка на сайте](./settings/dostavka/dostavka-na-saite)
+
       -  [Доставка для корпоративной платформы](./settings/dostavka/dostavka-dlya-korporativnoi-platformy)
+
       -  [Города доставки](./settings/dostavka/goroda-dostavki)
+
       -  [Филиалы](./settings/dostavka/filialy)
+
       -  [Настройки доставки](./settings/dostavka/nastroiki-dostavki)
+
    -  [Оплата](./settings/oplata/README)
+
       -  [Для ЮЛ (Реквизиты)](./settings/oplata/rekvizity)
+
       -  [Мультивалютность](./settings/oplata/multivalyutnost)
+
       -  [Условия оплаты](./settings/oplata/usloviya-oplaty)
+
    -  [Дизайн сайта](./settings/dizain-saita/README)
+
       -  [Элементы дизайна](./settings/dizain-saita/elementy-dizaina)
+
       -  [Типографическая система](./settings/dizain-saita/tipograficheskaya-sistema)
+
       -  [Менеджер шрифтов](./settings/dizain-saita/menedzher-shriftov)
+
       -  [Блоки сайта](./settings/dizain-saita/bloki-saita)
+
    -  [Интеграции](./settings/integracii/README)
+
       -  [Способы оплаты](./settings/integracii/sposoby-oplaty/README)
+
          -  [ЮKassa](./settings/integracii/sposoby-oplaty/yukassa)
+
          -  [ROBOKASSA (РОБОКАССА)](./settings/integracii/sposoby-oplaty/robokassa)
+
          -  [Makeсommerce](./settings/integracii/sposoby-oplaty/makesommerce)
+
       -  [Доставка](./settings/integracii/dostavka/README)
+
          -  [CDEK (СДЭК)](./settings/integracii/dostavka/cdek)
+
          -  [Boxberry (Боксберри) СТАТЬЯ НЕ АКТУАЛЬНА!!!](./settings/integracii/dostavka/boxberry)
+
          -  [DPD (ДПД)](./settings/integracii/dostavka/dpd)
+
          -  [Почта России](./settings/integracii/dostavka/pochta-rossii)
+
          -  [Настраиваемая доставка](./settings/integracii/dostavka/nastraivaemaya-dostavka)
+
       -  [Маркетинг](./settings/integracii/marketing)
+
       -  [CRM](./settings/integracii/crm/README)
+
          -  [AmoCRM](./settings/integracii/crm/amocrm)
+
          -  [Bitrix24 (Битрикс24)](./settings/integracii/crm/bitrix24-bitriks24)
+
          -  [Axiom (Аксиом)](./settings/integracii/crm/axiom-aksiom)
+
       -  [Данные](./settings/integracii/dannye)
+
       -  [Проверка макета](./settings/integracii/proverka-maketa)
+
       -  [Сувенирная продукция](./settings/integracii/suvenirnaya-produkciya)
+
       -  [Карты](./settings/integracii/karty)
+
       -  [Геолокация](./settings/integracii/geolokaciya)
+
       -  [Финансы](./settings/integracii/finansy/README)
+
          -  [Тинькофф бизнес](./settings/integracii/finansy/tinkoff-biznes)
+
          -  [Точка банк](./settings/integracii/finansy/tochka-bank)
+
          -  [Выписки по расписанию - СберБанк](./settings/integracii/finansy/vypiski-po-raspisaniyu-sberbank)
+
       -  [Captcha (Капча)](./settings/integracii/captcha-kapcha/README)
+
          -  [reCaptcha](./settings/integracii/captcha-kapcha/captcha)
+
          -  [Smart Captcha](./settings/integracii/captcha-kapcha/smart-captcha)
+
       -  [Аналитика](./settings/integracii/analitika/README)
+
          -  [Roistat](./settings/integracii/analitika/roistat)
+
          -  [Яндекс.Метрика](./settings/integracii/analitika/yandeks.metrika)
+
       -  [Социальные сети](./settings/integracii/socialnye-seti)
+
       -  [Облачные диски](./settings/integracii/oblachnye-diski)
+
       -  [Отзывы](./settings/integracii/otzyvy)
+
    -  [Другие настройки](./settings/drugie-nastroiki/README)
+
       -  [Контактные данные](./settings/drugie-nastroiki/kontaktnye-dannye)
+
       -  [Настройка почтового сервера](./settings/drugie-nastroiki/nastroika-pochtovogo-servera)
+
       -  [Шаблоны email-писем](./settings/drugie-nastroiki/shablony-email-pisem)
+
       -  [Производственный календарь](./settings/drugie-nastroiki/proizvodstvennyi-kalendar)
+
       -  [Шаблоны сроков производства](./settings/drugie-nastroiki/shablony-srokov-proizvodstva)
+
       -  [Настройка FTP-сервера](./settings/drugie-nastroiki/nastroika-ftp-servera)
+
       -  [Настройка калькуляции](./settings/drugie-nastroiki/nastroika-kalkulyacii)
+
       -  [Работа с макетом](./settings/drugie-nastroiki/rabota-s-maketom/README)
+
          -  [Название макетов](./settings/drugie-nastroiki/rabota-s-maketom/nazvanie-maketov)
+
          -  [Настройки дизайна и загрузки макета](./settings/drugie-nastroiki/rabota-s-maketom/nastroiki-dizaina-i-zalivki-maketa)
+
          -  [Настройки спуска](./settings/drugie-nastroiki/rabota-s-maketom/nastroiki-spuska)
+
       -  [Вставка кода в \<head> и \<body> сайта](./settings/drugie-nastroiki/vstavka-koda-v-less-than-head-greater-than-i-less-than-body-greater-than-saita)
+
       -  [Настройки оформления заказа](./settings/drugie-nastroiki/nastroiki-oformleniya-zakaza)
+
       -  [Настройки мультиязычности](./settings/drugie-nastroiki/nastroiki-multiyazychnosti/README)
+
          -  [Перевод на разные языки](./settings/drugie-nastroiki/nastroiki-multiyazychnosti/perevod-na-raznye-yazyki)
+
       -  [Настройки Url](./settings/drugie-nastroiki/nastroiki-url)
+
       -  [Авторизация через соцсети](./settings/drugie-nastroiki/avtorizaciya-cherez-socseti/README)
+
          -  [ВКонтакте](./settings/drugie-nastroiki/avtorizaciya-cherez-socseti/vkontakte)
+
          -  [Яндекс](./settings/drugie-nastroiki/avtorizaciya-cherez-socseti/yandeks)
+
 -  [💬 FAQ — Частые вопросы](./faq/README)
+
    -  [FAQ — Калькуляция](./faq/faq-kalkulyaciya/README)
+
       -  [Не добавляется бумага](./faq/faq-kalkulyaciya/ne-dobavlyaetsya-bumaga)
+
       -  [Не добавляется цветность](./faq/faq-kalkulyaciya/ne-dobavlyaetsya-cvetnost)
+
    -  [FAQ — Магазин](./faq/faq-magazin)
+
    -  [Требования к изображениям](./faq/trebovaniya-k-izobrazheniyam)
+
    -  [Смена доменного имени](./faq/smena-domennogo-imeni)
+
+
+
+**Остались вопросы?** [Напишите нам.](https://tippo.okdesk.ru/)
