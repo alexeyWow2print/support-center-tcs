@@ -1,44 +1,111 @@
-# Настройки
+---
+title: Настройки
+order: 0.5
+---
 
 ## Настройки Кнопок
 
-Модуль Настройки позволяет изменить у конкретного продукта подписи следующих кнопок:&#x20;
+Модуль Настройки позволяет изменить у конкретного продукта подписи следующих кнопок:
 
-<figure><img src="../../../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../../../.gitbook/assets/image (402).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### **"Создать в конструкторе"**
 
 В настройках имеется две строки с данным названием. Первая строка применяется, если в товаре используется конструктор для фотопродукции. Вторая строка для конструктора остальной полиграфии.
 
-<figure><img src="../../../../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../../../.gitbook/assets/image (403).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### **"Выбрать дизайн"**
 
 Если имеется готовый каталог дизайнов для данного продукта, то появится выбор кнопки Готового дизайна.
 
-<figure><img src="../../../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../../../.gitbook/assets/image (404).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### **"Загрузить макет"**
 
 Клиент может загрузить свой макет, не применяя конструктор. Если в товаре не применяется конструктор полиграфии, то будет отображаться только кнопка, без выбора дизайна
 
-<figure><img src="../../../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../../../.gitbook/assets/image (405).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### **"Добавить в корзину"**
 
-Если в вашем товаре не указана обязательная загрузка макета, то будет видна только одна кнопка для перехода в корзину.&#x20;
+Если в вашем товаре не указана обязательная загрузка макета, то будет видна только одна кнопка для перехода в корзину.
 
-<figure><img src="../../../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../../../.gitbook/assets/image (406).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### **"Заказ через менеджера"**
 
 Кнопка, которая отображается над калькуляцией, справа от заголовка продукта
 
-<figure><img src="../../../../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
+<figure>
 
-{% hint style="info" %}
-Если вы хотите применить названия кнопок ко всем продуктам, то следует изменять их в <mark style="background-color:yellow;">Настройках → Другие настройки → Настройки калькуляции</mark>
-{% endhint %}
+![](<../../../../.gitbook/assets/image (407).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
+
+:::info 
+
+Если вы хотите применить названия кнопок ко всем продуктам, то следует изменять их в
+
+Настройках -> Другие настройки -> Настройки калькуляции
+
+:::
 
 ## **Заказ через менеджера**.
 
@@ -46,16 +113,50 @@
 
 Для этого выберите опцию "Заказ через менеджера" и форму обратной связи из списка. В списке отображаются формы, созданные в
 
-> <mark style="background-color:yellow;">Контент → Виджеты → Добавить → Форма обратной связи</mark>
+:::quote 
 
-<figure><img src="../../../../.gitbook/assets/заказ через менедж.png" alt=""><figcaption></figcaption></figure>
+Контент -> Виджеты -> Добавить -> Форма обратной связи
+
+:::
+
+<figure>
+
+![](<../../../../.gitbook/assets/заказ через менедж.png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Пример на сайте:
 
-<figure><img src="../../../../.gitbook/assets/заявка на расчёт.png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../../../.gitbook/assets/заявка на расчёт.png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 При выборе нужного тиража и нажатия кнопки "Быстрый заказ", открывается форма обратной связи.
 
-Все обращения попадают в <mark style="background-color:yellow;">Админ-панель →Магазин →</mark>[<mark style="background-color:yellow;">Обращения с сайта</mark>](https://support.wow2print.com/ecommerce/obrasheniya-s-saita)
+Все обращения попадают в Админ-панель ->Магазин ->[Обращения с сайта](https://support.wow2print.com/ecommerce/obrasheniya-s-saita)
 
-<figure><img src="../../../../.gitbook/assets/обращения с сайта.png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../../../.gitbook/assets/обращения с сайта.png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
