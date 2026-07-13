@@ -10,7 +10,7 @@ title: Функционал заказа
 
 Каждому заказу автоматически присваивается уникальный номер, который отображается в левом верхнем углу панели.
 
-**1\. Панель заказа без менеджера** (при отключенном [автоматическом распределении заказов](https://support.wow2print.com/nastroiki/polzovateli-1/nastroika-menedzherov#raspredelyat-zakazy-avtomaticheski)).
+**1\. Панель заказа без менеджера** (при отключенном [автоматическом распределении заказов](./../../../settings/polzovateli-1/README)).
 
 ![](./zakaz-v-admin-paneli.png){width=1828px height=149px}
 
@@ -32,7 +32,7 @@ title: Функционал заказа
 
 Позволяет распечатать следующие документы:
 
--  [Счета на оплату](https://support.wow2print.com/magazin/bukhgalteriya/scheta-klientov-debet) (с печатью / без печати).
+-  [Счета на оплату](./../../bukhgalteriya/README) (с печатью / без печати).
 
 -  [УПД или Счет-фактура](https://support.wow2print.com/magazin/bukhgalteriya/realizaciya) (с печатью / без печати / в формате XML).
 
@@ -54,7 +54,7 @@ title: Функционал заказа
 
 #### **3\. Кнопка «Доставка» (Создание/обновление посылки)**
 
-Используется для автоматического создания отправления в личном кабинете транспортной компании. Доступно при интеграции с [**CDEK**](https://support.wow2print.com/nastroiki/integracii/dostavka/cdek) и [**DPD**](https://support.wow2print.com/nastroiki/integracii/dostavka/dpd).
+Используется для автоматического создания отправления в личном кабинете транспортной компании. Доступно при интеграции с [**CDEK**](./../../../settings/integracii/dostavka/cdek) и [**DPD**](./../../../settings/integracii/dostavka/dpd).
 
 ![](./zakaz-v-admin-paneli-6.png){width=331px height=124px}
 
