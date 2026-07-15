@@ -12,76 +12,201 @@ icon: file-certificate
 
 Чтобы создать подарочный сертификат в админ-панели сайта зайдите в раздел
 
-> Маркетинг → Подарочный сертификат →
+:::quote 
 
-<figure><img src="../.gitbook/assets/Screenshot_1 (16).png" alt=""><figcaption></figcaption></figure>
+Маркетинг -> Подарочный сертификат ->
+
+:::
+
+<figure>
+
+![](<../.gitbook/assets/Screenshot_1 (16).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 и нажмите кнопку "Добавить сертификат"
 
-<figure><img src="../.gitbook/assets/Screenshot_2 (19).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../.gitbook/assets/Screenshot_2 (19).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 В открывшемся окне заполните поля:
 
-* _Название_ (введите любое удобное вам название сертификата)
-* _Номинал_ (укажите сумму на которую будет сертификат)
+-  *Название* (введите любое удобное вам название сертификата)
+
+-  *Номинал* (укажите сумму на которую будет сертификат)
 
 При создании сертификата укажите дату, до которой клиенту необходимо активировать сертификат (выбор даты в поле "Активировать до").
 
 Если вы хотите, чтобы клиент мог активировать сертификат в любой момент, оставьте данное поле пустым.
 
-<figure><img src="../.gitbook/assets/Screenshot_3 (15).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../.gitbook/assets/Screenshot_3 (15).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 После создания сертификата, включите его, передвинув ползунок справа.
 
-<figure><img src="../.gitbook/assets/Screenshot_4 (11).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../.gitbook/assets/Screenshot_4 (11).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Нажмите на название сертификата. Чтобы добавить промокод к сертификату, нажмите "Добавить промокод". Можно придумать промокод самостоятельно, сгенерировать случайный промокод или запустить массовую генерацию.
 
-<figure><img src="../.gitbook/assets/Screenshot_5 (11).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../.gitbook/assets/Screenshot_5 (11).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 До тех пор пока промокод не будет использован, вы увидите рядом соответствующий статус.
 
-<figure><img src="../.gitbook/assets/Screenshot_6 (2).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../.gitbook/assets/Screenshot_6 (2).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 После активации клиентом сертификата (промокода) в личном кабинете, сертификат меняет статус на "Использован", появится информация, кто использовал сертификат. В поле "Дата использования" вы увидите, когда сертификат был активирован. Сумма сертификата будет зачислена на подарочный баланс клиента. Каждый сертификат можно активировать только 1 раз.
 
-<figure><img src="../.gitbook/assets/Screenshot_9 (5).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../.gitbook/assets/Screenshot_9 (5).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ## Отображение в админке
 
-Отслеживать подарочный баланс можно в Магазин → Контрагенты → Клиенты → карточка клиента вкладка Покупатели.
+Отслеживать подарочный баланс можно в Магазин -> Контрагенты -> Клиенты -> карточка клиента вкладка Покупатели.
 
-<figure><img src="../.gitbook/assets/Screenshot_10 (5).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../.gitbook/assets/Screenshot_10 (5).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Чтобы проверить историю начислений и списаний нажмите на подарочный баланс. Вы можете вручную начислить или списать бонусы с подарочного баланса. Для этого нажмите на "Добавить". В открывшемся окне выберите Пополнение или Списание, укажите сумму и добавьте примечание.
 
-<figure><img src="../.gitbook/assets/Screenshot_11 (6).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../.gitbook/assets/Screenshot_11 (6).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
+
+
 
 ## Активация сертификата в личном кабинете
 
 Активировать сертификат клиент сможет в личном кабинете по коду во вкладке Профиль.
 
-<figure><img src="../.gitbook/assets/Screenshot_1 (35).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../.gitbook/assets/Screenshot_1 (35).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 После активации сертификата, выйдет уведомление, что подарочный сертификат активирован, и баланс сертификата пополнится.
 
-<figure><img src="../.gitbook/assets/Screenshot_2 (29).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../.gitbook/assets/Screenshot_2 (29).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Клиент сможет оплатить покупку в корзине, выбрав списание с подарочного баланса.
+
+
 
 ## Применение сертификата на покупки
 
 В документах сертификат отражается как скидка, поэтому подарочным сертификатом нельзя оплатить покупки на 100%. Клиент, который использует сертификат, должен оплатить 1 рубль за товар. Даже в случаях когда номинал сертификата больше или равен сумме покупки.
 
-{% hint style="warning" %}
+:::note 
+
 Применение сертификата при оплате доставки для типографий с подключенным и отключенным модулем "Отгрузки" различается.
-{% endhint %}
+
+:::
+
+
 
 ### Для типографий с подключенным модулем "Отгрузки"
 
-{% hint style="info" %}
-Подарочный сертификат не покрывает доставку.
-{% endhint %}
+:::tip 
+
+ Подарочный сертификат не покрывает доставку.
+
+:::
 
 **Пример:**
 
@@ -89,13 +214,25 @@ icon: file-certificate
 
 С подарочного баланса возможно списать 1799 рублей. К оплате остается 129 рублей (1 рубль за товар + 128 рублей за доставку).
 
-<figure><img src="../.gitbook/assets/Screenshot_4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../.gitbook/assets/Screenshot_4 (3).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### Для остальных типографий
 
-{% hint style="info" %}
-Подарочный сертификат покрывает доставку.
-{% endhint %}
+:::tip 
+
+ Подарочный сертификат покрывает доставку.
+
+:::
 
 **Пример:**
 
