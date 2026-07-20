@@ -163,7 +163,7 @@ order: 1.96
 Перейдите на нужную страницу или продукт, в режиме исходного кода вставьте код виджета в то место, которое необходимо.\
 Готово!
 
-![](./vidzhet-karta-s-pvz-8.png){width=750px height=299px}
+![](./vidzhet-karta-s-pvz.gif){width=924px height=384px}
 
 
 
@@ -175,4 +175,4 @@ order: 1.96
 Слева выберите необходимый виджет и вставьте в поле правее в нужном порядке.\
 Готово!
 
-![](./vidzhet-karta-s-pvz-9.png){width=765px height=404px}
+![](./vidzhet-karta-s-pvz-2.gif){width=1426px height=754px}
