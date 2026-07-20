@@ -7,9 +7,19 @@ title: Галереи
 order: 0.99
 ---
 
-# Галереи
+<figure>
 
-<figure><img src="../../.gitbook/assets/image (3878).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (3878).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
+
+
 
 Админ-панель раздела представляет собой список всех галерей с вложенными изображениями. Здесь доступны функции  редактирования,   удаление существующих галерей и  создания новых.
 
@@ -19,7 +29,17 @@ order: 0.99
 
 При нажатии на название галереи, откроется меню редактирования с тремя вкладками: **Описание**, **Изображения** и **Виджеты**.
 
-<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (274).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### **Вкладка "Описание"**
 
@@ -27,7 +47,17 @@ order: 0.99
 
 ### **Вкладка "Изображения"**
 
-<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (275).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 #### **Кнопка "Удалить"**
 
@@ -51,15 +81,29 @@ order: 0.99
 
 **•  Видео:** возможность загрузки видеофайлов (доступно только для виджета "Слайдер").
 
-{% hint style="info" %}
+:::note 
+
 **Важно! Видео отображается без звука и только при автоматической смене изображений.**
-{% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
+:::
 
-### **Создание кнопок на слайдере**&#x20;
 
-На каждом изображении в галереи можно создать кнопки для быстрого перехода по ссылке, либо для открытия формы обратной связи.&#x20;
+
+<figure>
+
+![](<../../.gitbook/assets/image (278).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
+
+### **Создание кнопок на слайдере**
+
+На каждом изображении в галереи можно создать кнопки для быстрого перехода по ссылке, либо для открытия формы обратной связи.
 
 Для создания кнопки установите переключатель "Кнопка на слайдере"  в положение "Включен" и заполните открывшиеся поля:
 
@@ -67,11 +111,11 @@ order: 0.99
 
 **•  Описание:** краткое описание слайда, которое отображается под заголовком.
 
-**•  Стиль заголовка / Стиль описания:** позволяет выбрать стиль текста. Подробнее в статье [Типографическая система](../../settings/dizain-saita/tipograficheskaya-sistema.md#tekst).
+**•  Стиль заголовка / Стиль описания:** позволяет выбрать стиль текста. Подробнее в статье [Типографическая система](./../../settings/dizain-saita/tipograficheskaya-sistema#tekst).
 
 **•  Цвет заголовка / Цвет описания:** позволяет подобрать цвет из палитры для заголовка и описания
 
-**•  Подпись кнопки:** название кнопки, указывающее о действии при нажатии&#x20;
+**•  Подпись кнопки:** название кнопки, указывающее о действии при нажатии
 
 **•  Позиция модуля:** позволяет выбрать расположение всего модуля (Заголовок, Описание, Кнопка) на слайде . Доступны три положения: слева, по центру и справа
 
@@ -79,19 +123,31 @@ order: 0.99
 
 **•  Ссылка:** поле для ввода ссылки, если выбрана соответствующая цель.
 
-{% tabs %}
-{% tab title="Настройка кнопки" %}
-<figure><img src="../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[tabs]
 
-{% tab title="Отображение на сайте" %}
-<figure><img src="../../.gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tab:Настройка кнопки]
 
-{% hint style="warning" %}
-**Важно! "**&#x41A;нопка на слайдере" работает непосредственно только в Виджете "Слайдер". В других виджетах, кнопка отображаться не будет.
-{% endhint %}
+![](./galerei.png){width=768px height=363px}
+
+[/tab]
+
+[tab:Отображение на сайте]
+
+![](./galerei-2.png){width=768px height=234px}
+
+[/tab]
+
+[/tabs]
+
+
+
+:::info 
+
+\*\*Важно! "\*\*Кнопка на слайдере" работает непосредственно только в Виджете "Слайдер". В других виджетах, кнопка отображаться не будет.
+
+:::
+
+
 
 #### **Импорт настроек кнопки**
 
@@ -99,21 +155,41 @@ order: 0.99
 
 При нажатии откроется окно "Импорт настроек". В данном окне выберите на какие изображения будет скопирована настройка кнопки.
 
-<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (291).png>)
+
+<figcaption>
 
 
 
-### Добавление новых изображений в слайдер&#x20;
+</figcaption>
+
+</figure>
+
+
+
+### Добавление новых изображений в слайдер
 
 Во вкладке **"Изображения"** вы можете добавить новые изображения в существующую галерею, нажав кнопку **"Загрузить"**.
 
-<figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (281).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 #### **Типы поддерживаемых изображений**:
 
-\*_._&#x6A;pg, \*.jpeg, \*.gif, \*.png, \*.webp, \*.svg
+\*\*.\*jpg, \*.jpeg, \*.gif, \*.png, \*.webp, \*.svg
 
-#### **Рекомендуемый размер изображения (Ширина х Высота):**&#x20;
+#### **Рекомендуемый размер изображения (Ширина х Высота):**
 
 #### •  Минимальный **643х300 рх.** •  Максимальный **1903х550 рх.**
 
@@ -125,7 +201,17 @@ order: 0.99
 
 Чтобы создать виджет, нажмите кнопку "Создать виджет".
 
-<figure><img src="../../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (282).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 В открывшейся форме заполните следующие поля:
 
@@ -144,31 +230,61 @@ order: 0.99
 •  Увеличение изображений при клике\
 •  Встроить изображение
 
-{% hint style="info" %}
-Более подробную информацию и описание создания виджета можно узнать из статьи [Виджет "Фото-карусель"](../vidzhety/vidzhet-foto-karusel.md)
-{% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+
+:::info 
+
+Более подробную информацию и описание создания виджета можно узнать из статьи [Виджет "Фото-карусель"](./../vidzhety/vidzhet-foto-karusel)
+
+:::
+
+
+
+<figure>
+
+![](<../../.gitbook/assets/image (283).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 После сохранения данных внизу формы появится код для установки на сайт. Скопируйте его и вставьте на нужную страницу. [Порядок установки.](https://support.wow2print.com/content/vidzhety/vidzhet-foto-karusel#poryadok-ustanovki-2-var)
 
-По умолчанию виджет будет отключён. Чтобы включить его перейдите в разделе <mark style="background-color:yellow;">Контент → Виджеты → Фото-карусель → включить бегунок у созданного виджета</mark>.
+По умолчанию виджет будет отключён. Чтобы включить его перейдите в разделе Контент -> Виджеты -> Фото-карусель -> включить бегунок у созданного виджета.
 
-<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (284).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Пример отображения Виджета Фото-карусель на сайте:
 
-{% tabs %}
-{% tab title="Слайдер" %}
-<figure><img src="../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[tabs]
 
-{% tab title="Блоками" %}
-<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tab:Слайдер]
 
+![](./galerei-3.png){width=768px height=227px}
 
+[/tab]
+
+[tab:Блоками]
+
+![](./galerei-4.png){width=768px height=405px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -178,24 +294,68 @@ order: 0.99
 
 В разделе **"Галереи"** предусмотрена возможность добавить свою галерею. Создать её можно при нажатии кнопки **"Добавить"**.
 
-<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (287).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 После нажатия кнопки, откроется страница создания галереи. Введите название и нажмите **"Сохранить"**.
 
-<figure><img src="../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (288).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Для загрузки изображений, перейдите во вкладку "**Изображения"** и нажмите кнопку "**Загрузить"**. После загрузки изображение можно отредактировать или удалить.
 
-<figure><img src="../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
+<figure>
 
-{% hint style="info" %}
-Рекомендуемые форматы изображений, а так же их размеры можете [прочитать выше](galerei.md#tipy-podderzhivaemykh-izobrazhenii)
-{% endhint %}
+![](<../../.gitbook/assets/image (289).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
+
+:::info 
+
+Рекомендуемые форматы изображений, а так же их размеры можете [прочитать выше](./galerei#tipy-podderzhivaemykh-izobrazhenii)
+
+:::
+
+
 
 
 
 ## Удаление галереи
 
-Чтобы удалить Галерею, воспользуйтесь кнопкой "Удалить" ( <img src="../../.gitbook/assets/Screenshot_2 (2).png" alt="" data-size="original"> ) напротив каждой галереи.
+Чтобы удалить Галерею, воспользуйтесь кнопкой "Удалить" напротив каждой галереи.
 
-<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (290).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
