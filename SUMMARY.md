@@ -23,7 +23,7 @@ order: 3.5
 
 ## **Подробнее о всех разделах нашего сервиса:**
 
--  [👨‍🔧 Добро пожаловать в центр поддержки TCS](./README)
+-  [👨‍🔧 Добро пожаловать в центр поддержки TCS](./SUMMARY)
 
 -  [🖥️ Рабочий стол](./rabochii-stol/README)
 
@@ -243,7 +243,7 @@ order: 3.5
 
       -  [Виджет «Дизайны»](./content/vidzhety/vidzhet-dizainy)
 
-      -  [Виджет «Форма обратной связи»](./content/vidzhety/vidzhet-forma-obratnoi-svyazi-1)
+      -  [Виджет «Форма обратной связи»](./content/vidzhet-forma-obratnoi-svyazi-1)
 
    -  [SEO](./content/seo/README)
 
