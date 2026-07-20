@@ -111,7 +111,9 @@ order: 1.8
 Перейдите на нужную страницу или продукт, в режиме исходного кода вставьте код виджета в то место, которое необходимо.\
 Готово!
 
-![](./vidzhet-kalkulyaciya-produkcii-2.png){width=750px height=299px}
+(*Дважды кликните по изображению, чтобы запустить GIF*)
+
+![](./vidzhet-kalkulyaciya-produkcii.gif){width=924px height=384px}
 
 
 
@@ -121,4 +123,6 @@ order: 1.8
 Слева выберите необходимый виджет и вставьте в поле правее в нужном порядке.\
 Готово!
 
-![](./vidzhet-kalkulyaciya-produkcii-3.png){width=765px height=404px}
+(*Дважды кликните по изображению, чтобы запустить GIF*)
+
+![](./vidzhet-kalkulyaciya-produkcii-2.gif){width=1426px height=754px}
