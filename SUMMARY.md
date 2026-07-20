@@ -243,7 +243,7 @@ order: 3.5
 
       -  [Виджет «Дизайны»](./content/vidzhety/vidzhet-dizainy)
 
-      -  [Виджет «Форма обратной связи»](./content/vidzhet-forma-obratnoi-svyazi-1)
+      -  [Виджет «Форма обратной связи»](./content/vidzhety/vidzhet-forma-obratnoi-svyazi-1)
 
    -  [SEO](./content/seo/README)
 
