@@ -9,7 +9,7 @@ order: 1.999995
 
 
 
-Как использовать свёрстанный блок отзывов на сайте с помощью виджета «Исходный код», смотрите в разделе [#vidzhet-iskhodnyi-kod-v-vide-otzyvy-klientov](vidzhet-iskhodnyi-kod.md#vidzhet-iskhodnyi-kod-v-vide-otzyvy-klientov "mention")
+Как использовать свёрстанный блок отзывов на сайте с помощью виджета «Исходный код», смотрите в разделе [Виджет «Исходный код» в виде «Отзывы клиентов](https://support.wow2print.com/kontent/vidzhety/vidzhet-iskhodnyi-kod#vidzhet-iskhodnyi-kod-v-vide-otzyvy-klientov){#vidzhet-iskhodnyi-kod-v-vide-otzyvy-klientov}
 
 
 
