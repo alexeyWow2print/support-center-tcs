@@ -17,17 +17,9 @@ title: 📗 Справочник.
 
 -  Ламинация.
 
-\{% content-ref url="materialy/" %} [materialy](./materialy/_index)
-
-\{% endcontent-ref %}
-
 ## **Операция (Press)**
 
 -  Печать :printer:
-
-\{% content-ref url="operacii/" %} [operacii](./operacii/_index)
-
-\{% endcontent-ref %}
 
 ## **Дополнительные операции (Post press)**
 
@@ -73,10 +65,6 @@ title: 📗 Справочник.
 
 -  Перфорация.
 
-\{% content-ref url="dop.-operacii/" %} [dop.-operacii](./dop.-operacii/_index)
-
-\{% endcontent-ref %}
-
 ## **Комплектующие**
 
 -  Пружина\*\*;\*\*
@@ -98,10 +86,6 @@ title: 📗 Справочник.
 -  Фольга;
 
 -  Другие комплектующие.
-
-\{% content-ref url="komplektuyushie/" %} [komplektuyushie](./komplektuyushie/_index)
-
-\{% endcontent-ref %}
 
 ## **Товары**
 
@@ -131,10 +115,6 @@ title: 📗 Справочник.
 
 -  Другие товары.
 
-\{% content-ref url="/broken/pages/-M10K9Kisr3Scl38XpmE" %} [Broken link](/broken/pages/-M10K9Kisr3Scl38XpmE)
-
-\{% endcontent-ref %}
-
 ## **Свойства**
 
 -  Формат\*\*;\*\*
@@ -155,17 +135,9 @@ title: 📗 Справочник.
 
 -  Группировка.
 
-\{% content-ref url="svoistva/" %} [svoistva](./svoistva/_index)
-
-\{% endcontent-ref %}
-
 ## **Упаковка**
 
 -  Коробочки
-
-\{% content-ref url="upakovka.md" %} [upakovka.md](./upakovka)
-
-\{% endcontent-ref %}
 
 ## **Продукция**
 
@@ -174,12 +146,6 @@ title: 📗 Справочник.
 -  Размеры готовой продукции;
 
 -  Конструктор.
-
-\{% content-ref url="produkciya/" %} [produkciya](./produkciya/_index)
-
-\{% endcontent-ref %}
-
-
 
 
 

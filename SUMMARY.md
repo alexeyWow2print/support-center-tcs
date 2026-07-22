@@ -367,11 +367,11 @@ order: 3.5
 
       -  [Другие комплектующие](./handbook/komplektuyushie/drugie-komplektuyushie)
 
-   -  [Товары](./handbook/tovary/README)
+   -  [Товары](./handbook/tovary-2/README)
 
-      -  [Создание групп Товаров](./handbook/tovary/sozdanie-grupp-tovarov)
+      -  [Создание групп Товаров](./handbook/tovary-2/sozdanie-grupp-tovarov)
 
-      -  [Заполнение Товара](./handbook/tovary/zapolnenie-tovara)
+      -  [Заполнение Товара](./handbook/tovary-2/zapolnenie-tovara)
 
    -  [Свойства](./handbook/svoistva/README)
 

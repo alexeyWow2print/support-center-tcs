@@ -1,5 +1,7 @@
 ---
 icon: rectangles-mixed
+title: Комплектующие
+order: 1
 ---
 
 # Комплектующие
@@ -53,4 +55,3 @@ icon: rectangles-mixed
 
 
 ![](<../../.gitbook/assets/image (1505).png>)
-
