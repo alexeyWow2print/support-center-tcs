@@ -1,5 +1,7 @@
 ---
 icon: text-size
+title: Шрифты
+order: 7
 ---
 
 # Шрифты
@@ -98,6 +100,3 @@ icon: text-size
 * **Удалить стиль**: после сохранения у всех стилей, кроме **Обычного стиля**, появляется кнопка **«Удалить стиль»**.
 
 <figure><img src="../.gitbook/assets/image (4092).png" alt=""><figcaption></figcaption></figure>
-
-
-

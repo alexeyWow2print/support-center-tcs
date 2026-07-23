@@ -1,5 +1,7 @@
 ---
 icon: images
+title: Фотобанк
+order: 0.9
 ---
 
 # Фотобанк
@@ -86,4 +88,3 @@ icon: images
 ## **Пример работы с фотобанком**
 
 <figure><img src="../.gitbook/assets/bandicam 2025-04-22 09-36-31-505.gif" alt=""><figcaption></figcaption></figure>
-

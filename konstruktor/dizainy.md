@@ -1,5 +1,7 @@
 ---
 icon: swatchbook
+title: Дизайны
+order: 0.8
 ---
 
 # Дизайны
