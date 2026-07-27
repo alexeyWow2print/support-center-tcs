@@ -41,7 +41,7 @@ title: 📊 Отчёты
 
 <figure><img src=".gitbook/assets/image (3931).png" alt=""><figcaption></figcaption></figure>
 
-<br>
+
 
 ### **Товары**
 
@@ -79,7 +79,7 @@ title: 📊 Отчёты
 
 <figure><img src=".gitbook/assets/image (3929).png" alt=""><figcaption></figcaption></figure>
 
-<br>
+
 
 ### **Обращения с сайта**
 
@@ -92,7 +92,7 @@ title: 📊 Отчёты
 
 ![](<.gitbook/assets/image (3705).png>)
 
-<br>
+
 
 ### **Отгрузки**
 
@@ -104,7 +104,7 @@ title: 📊 Отчёты
 
 ![](<.gitbook/assets/image (2738).png>)
 
-<br>
+
 
 ### **Коммерческое предложение**
 
@@ -116,7 +116,7 @@ title: 📊 Отчёты
 
 ![](<.gitbook/assets/image (3083).png>)
 
-<br>
+
 
 ### **Мотивация менеджеров**
 
@@ -128,7 +128,7 @@ title: 📊 Отчёты
 
 ![](<.gitbook/assets/image (2165).png>)
 
-<br>
+
 
 ## **Экспорт данных**
 
