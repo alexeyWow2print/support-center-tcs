@@ -1,6 +1,8 @@
 ---
 description: В данном разделе можно настроить основные элементы дизайна сайта
 icon: object-group
+title: Дизайн сайта
+order: 1
 ---
 
 # Дизайн сайта
@@ -16,4 +18,3 @@ icon: object-group
 {% content-ref url="bloki-saita.md" %}
 [bloki-saita.md](bloki-saita.md)
 {% endcontent-ref %}
-
