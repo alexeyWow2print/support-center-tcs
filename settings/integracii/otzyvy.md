@@ -1,3 +1,8 @@
+---
+title: Отзывы
+order: 7
+---
+
 # Отзывы
 
 ### Trusted Shops
@@ -77,4 +82,3 @@
 
 
 {% embed url="https://youtu.be/J3MzcVx1cC8" %}
-
