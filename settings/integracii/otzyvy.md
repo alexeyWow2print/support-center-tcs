@@ -3,19 +3,19 @@ title: Отзывы
 order: 7
 ---
 
-# Отзывы
+# 
 
 ### Trusted Shops
 
-Для интеграции нужно быть действующим участником "Trusted Shops".&#x20;
+Для интеграции нужно быть действующим участником "Trusted Shops". 
 
-На сайте "Trusted Shops", на странице [https://support.trustedshops.com/de/apps/generator](https://support.trustedshops.com/de/apps/generator) введите URL или идентификатор своего магазина ниже (идентификатор доверенного магазина от "Trusted Shops"), чтобы создать свой персональный код.
+На сайте "Trusted Shops", на странице <https://support.trustedshops.com/de/apps/generator> введите URL или идентификатор своего магазина ниже (идентификатор доверенного магазина от "Trusted Shops"), чтобы создать свой персональный код.
 
 ![](<../../.gitbook/assets/image (2460).png>)
 
 
 
-Полученный в поле код вставьте в Настройки→Интеграции →Отзывы → щелкните на названии "_Trusted Shops"_ →поле _Код_
+Полученный в поле код вставьте в Настройки->Интеграции ->Отзывы -> щелкните на названии "*Trusted Shops"* ->поле *Код*
 
 ![](<../../.gitbook/assets/image (2747).png>)
 
@@ -35,7 +35,7 @@ order: 7
 
 В связи с тем, что Яндекс перестал предоставлять возможность интеграции со своим сервисом Яндекс.Отзывы, отзывы возможно можно разместить на сайте через сторонний виджет.
 
-Для этого на Яндекс.Картах найдите свою компанию, нажмите на кнопку <img src="../../.gitbook/assets/Screenshot_4 (22).png" alt="" data-size="original"> в правом верхнем углу и выберите "Поделиться".
+Для этого на Яндекс.Картах найдите свою компанию, нажмите на кнопку ![](./otzyvy.png){width=105px height=57px} в правом верхнем углу и выберите "Поделиться".
 
 
 
@@ -65,20 +65,20 @@ order: 7
 
 
 
-### Видеоинструкция&#x20;
+### Видеоинструкция 
 
-{% embed url="https://vkvideo.ru/video-150544481_456239082" %}
+https://vkvideo.ru/video-150544481_456239082
 
 
 
-{% embed url="https://youtu.be/D04UCKhLguY" %}
+https://youtu.be/D04UCKhLguY
 
 
 
 **Видеоинструкция с вебинара:**
 
-{% embed url="https://vkvideo.ru/video-150544481_456239083" %}
+"https://vkvideo.ru/video-150544481_456239083
 
 
 
-{% embed url="https://youtu.be/J3MzcVx1cC8" %}
+https://youtu.be/J3MzcVx1cC8
