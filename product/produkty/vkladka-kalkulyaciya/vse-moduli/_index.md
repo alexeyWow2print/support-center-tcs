@@ -45,4 +45,4 @@ title: Все модули
 
 -  Продукция (Детали, Размеры, Конструктор)
 
-Подробнее о этом в разделе [Справочник](https://github.com/alexeyWow2print/support-center/tree/main/handbook/README.md)
+Подробнее о этом в разделе [Справочник](./../../../../spravochnik/_index)

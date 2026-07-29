@@ -41,7 +41,7 @@ order: 2
 
 </figure>
 
-В списке отображаются данные из Настройки -> Другие настройки -> [Шаблоны сроков производства](https://support.wow2print.com/nastroiki/drugie-nastroiki/shablony-srokov-proizvodstva)
+В списке отображаются данные из Настройки -> Другие настройки -> [Шаблоны сроков производства](./../../../../settings/drugie-nastroiki/shablony-srokov-proizvodstva)
 
 Таким образом, вы можете управлять сроками изготовления продукции.
 
