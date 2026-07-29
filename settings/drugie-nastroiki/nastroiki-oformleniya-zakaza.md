@@ -10,165 +10,414 @@ order: 4.7
 
 ### **Обязательная загрузка макета в калькуляции**
 
-<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (169).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 При активации этой опции для всех товаров по умолчанию потребуется загрузить макет перед добавлением в корзину. Это необходимо типографиям, которые не принимают заказы без макетов.
 
 **Исключение:** если в настройках товара (вкладка «Общие») отключена загрузка макета, то требование не применяется.
 
-<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (170).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### **Отображение поля ввода отчества для клиента**
 
-<figure><img src="../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (171).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Если опция включена, то у незарегистрированных клиентов **при оформлении заказа** в разделе «Заказчик» появится обязательное поле для ввода отчества.
 
 **При регистрации** новым клиентам также будет предложено указать отчество, но в этом случае поле не обязательно для заполнения.
 
-{% tabs %}
-{% tab title="При оформлении заказа" %}
-<figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[tabs]
 
-{% tab title="При регистрации" %}
-<figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tab:При оформлении заказа]
+
+![](./nastroiki-oformleniya-zakaza.png){width=768px height=305px}
+
+[/tab]
+
+[tab:При регистрации]
+
+![](./nastroiki-oformleniya-zakaza-2.png){width=768px height=321px}
+
+[/tab]
+
+[/tabs]
+
+
 
 ### **Отображение поля ввода ИНН для клиента**
 
-<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (174).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 При активации этой функции в форме регистрации клиента отобразится поле «ИНН». Оно не является обязательным для заполнения.
 
-<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (175).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### **Выбор менеджера при оформлении заказа на сайте**
 
-<figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+<figure>
 
-При включении данной опции в процессе оформления заказа (под разделом **«Оплата и подтверждение»**) снизу появится поле **«Персональный менеджер»**. При клике на него откроется список доступных менеджеров — только тех, у которых включен доступ **«**[**Работа с заказами**](../polzovateli-1/roli-i-dostupy.md)**»**.
+![](<../../.gitbook/assets/image (176).png>)
 
-**При регистрации** нового клиента также будет отображаться поле **«Менеджер»**. Во всех случаях выбор обязателен — если клиент не знает, кого выбрать, можно указать **«Случайный менеджер»**, и система автоматически назначит одного из доступных специалистов.
+<figcaption>
 
-{% tabs %}
-{% tab title="При оформлении заказа" %}
-<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
 
-{% tab title="При регистрации" %}
-<figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+
+</figcaption>
+
+</figure>
+
+При включении данной опции в процессе оформления заказа (под разделом **«Оплата и подтверждение»**) снизу появится поле **«Персональный менеджер»**. При клике на него откроется список доступных менеджеров -- только тех, у которых включен доступ **«**[**Работа с заказами**](./../polzovateli-1/roli-i-dostupy)**»**.
+
+**При регистрации** нового клиента также будет отображаться поле **«Менеджер»**. Во всех случаях выбор обязателен -- если клиент не знает, кого выбрать, можно указать **«Случайный менеджер»**, и система автоматически назначит одного из доступных специалистов.
+
+[tabs]
+
+[tab:При оформлении заказа]
+
+![](./nastroiki-oformleniya-zakaza-3.png){width=768px height=372px}
+
+[/tab]
+
+[tab:При регистрации]
+
+![](./nastroiki-oformleniya-zakaza-4.png){width=768px height=358px}
+
+[/tab]
+
+[/tabs]
+
+
 
 ### **Выбор менеджера при оформлении заказа в админ-панели**
 
-<figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (180).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Если активировать пункт "Выбор менеджера при оформлении заказа в админ-панели", то в админ-панели, корзине появится поле **«Персональный менеджер»**. Выбранный менеджер будет назначен в заказ, даже если у клиента уже был закреплён другой специалист. При этом новый менеджер будет отвечать только за текущий заказ и не заменит основного закреплённого менеджера клиента.
 
-<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (179).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### **Отображать личного менеджера**
 
-<figure><img src="../../.gitbook/assets/image (4105).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (4105).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Если функция включена, в личном кабинете клиента (вкладки «Профиль» и «Заказы») будет отображаться закреплённый за клиентом менеджер.
 
-{% tabs %}
-{% tab title="Вкладка " %}
-<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[tabs]
 
-{% tab title="Вкладка " %}
-<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tab:Менеджер в Профиле]
+
+![](./nastroiki-oformleniya-zakaza-5.png){width=768px height=328px}
+
+[/tab]
+
+[tab:Менеджер в Заказах]
+
+![](./nastroiki-oformleniya-zakaza-6.png){width=768px height=259px}
+
+[/tab]
+
+[/tabs]
+
+
 
 ### **Запрашивать Индекс для доставки Почта России**
 
-<figure><img src="../../.gitbook/assets/image (4106).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (4106).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 При активации параметра, клиенту при оформлении заказа в корзине, потребуется указать почтовый индекс при условии, что он выберет способ доставки «До двери».
 
 ### **Коммерческое предложение**
 
-<figure><img src="../../.gitbook/assets/image (4107).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (4107).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Если опция включена, при оформлении заказа (под третьим шагом) появится кнопка **«Выслать коммерческое предложение»**. Покупатель сможет до оформления заказа отправить себе на email предложение для согласования или сравнения цен.
 
-<figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (186).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### **Редактирование наименования в счёте**
 
-<figure><img src="../../.gitbook/assets/image (4108).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (4108).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Активация этой опции позволяет отобразить у каждого продукта в корзине функцию «Заполнить наименование в счёте». Если клиент впишет своё название, то в счёте будет отображаться именно оно, а не стандартное наименование продукта.
 
-<figure><img src="../../.gitbook/assets/image (4109).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (4109).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### **Приоритетный тип плательщика**
 
-<figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (187).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 В выпадающем списке можно выбрать два варианта:
 
-* **Физическое лицо** — по умолчанию при оформлении заказа, во втором пункте, откроется форма для физлица.
-* **Юридическое лицо** — по умолчанию во втором пункте оформления заказа отобразится форма для юрлица.
+-  **Физическое лицо** -- по умолчанию при оформлении заказа, во втором пункте, откроется форма для физлица.
+
+-  **Юридическое лицо** -- по умолчанию во втором пункте оформления заказа отобразится форма для юрлица.
 
 Настройка влияет на то, какой из вариантов будет отображаться по умолчанию при оформлении заказа в корзине.
 
-{% tabs %}
-{% tab title="Физическое лицо" %}
-<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[tabs]
 
-{% tab title="Юридическое лицо" %}
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tab:Физическое лицо]
+
+![](./nastroiki-oformleniya-zakaza-7.png){width=768px height=323px}
+
+[/tab]
+
+[tab:Юридическое лицо]
+
+![](./nastroiki-oformleniya-zakaza-8.png){width=768px height=339px}
+
+[/tab]
+
+[/tabs]
+
+
 
 ### **Приоритетный способ получения заказа**
 
-<figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (194).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Определяет, какой вариант будет показан первым при оформлении заказа в корзине:
 
-* **Доставка** — отображаются доступные службы доставки. Если они не подключены, автоматически подставляется «Самовывоз».
-* **Пункт самовывоза** — выводятся точки выдачи, указанные в филиале выбранного города.
+-  **Доставка** -- отображаются доступные службы доставки. Если они не подключены, автоматически подставляется «Самовывоз».
 
-{% tabs %}
-{% tab title="Доставка" %}
-<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+-  **Пункт самовывоза** -- выводятся точки выдачи, указанные в филиале выбранного города.
 
-{% tab title="Пункт самовывоза" %}
-<figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tabs]
+
+[tab:Доставка]
+
+![](./nastroiki-oformleniya-zakaza-9.png){width=768px height=309px}
+
+[/tab]
+
+[tab:Пункт самовывоза]
+
+![](./nastroiki-oformleniya-zakaza-10.png){width=768px height=239px}
+
+[/tab]
+
+[/tabs]
+
+
 
 ### **Маска для телефона**
 
-<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (197).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Определяет формат ввода номера телефона:
 
-* При регистрации.
-* В корзине при оформлении заказа.
-* В личном кабинете клиента.
-* В админ-панели для пользователей.
+-  При регистрации.
 
-<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+-  В корзине при оформлении заказа.
+
+-  В личном кабинете клиента.
+
+-  В админ-панели для пользователей.
+
+<figure>
+
+![](<../../.gitbook/assets/image (198).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 ### **Примечание для доставки**
 
-<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](<../../.gitbook/assets/image (199).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 Позволяет добавить подпись к доставке. Текст отображается в корзине перед выбором способа доставки.
 
-<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure>
 
-{% hint style="warning" %}
+![](<../../.gitbook/assets/image (200).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
+
+
+
+:::note 
+
 После настройки всех параметров не забудьте нажать **«Сохранить»**.
-{% endhint %}
+
+:::

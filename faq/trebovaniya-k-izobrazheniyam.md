@@ -1,5 +1,7 @@
 ---
 icon: arrows-maximize
+order: 1.5
+title: Требования к изображениям
 ---
 
 # Требования к изображениям
@@ -10,8 +12,9 @@ icon: arrows-maximize
 
 **Общие требования к форматам**
 
-* **Допустимые форматы:** JPEG, PNG, SVG, WebP.
-* **Рекомендуемый формат:** **WebP**. Этот формат обеспечивает оптимальное соотношение качества и размера файла, что ускоряет загрузку страниц и экономит трафик.
+-  **Допустимые форматы:** JPEG, PNG, SVG, WebP.
+
+-  **Рекомендуемый формат:** **WebP**. Этот формат обеспечивает оптимальное соотношение качества и размера файла, что ускоряет загрузку страниц и экономит трафик.
 
 
 
@@ -23,21 +26,39 @@ icon: arrows-maximize
 
 ### **Категории продукции**
 
-**Где загрузить:** Продукция → Редактировать категорию → вкладка «Изображения».
+**Где загрузить:** Продукция -> Редактировать категорию -> вкладка «Изображения».
 
-* **Изображение (Фото тизера):** max. 440×440 px (За размер изображения отвечает настройка кол-ва в ряд элементов виджета "Каталог товаров" [Смотреть ниже](trebovaniya-k-izobrazheniyam.md#katalog-tovarov))
-* **Изображение при наведении:** max. 440×440 px (За размер изображения отвечает настройка кол-ва в ряд элементов виджета "Каталог товаров" [Смотреть ниже](trebovaniya-k-izobrazheniyam.md#katalog-tovarov))
-* **Иконка категории:** 50×50 px (отображается для дочерних категорий в меню сайта)
-* **Изображение для задвоенного вида:** 920×440 px
-* **Изображение при наведении для задвоенного вида:** 920×440 px
+-  **Изображение (Фото тизера):** max. 440×440 px (За размер изображения отвечает настройка кол-ва в ряд элементов виджета "Каталог товаров" [Смотреть ниже](./trebovaniya-k-izobrazheniyam#katalog-tovarov))
 
-{% hint style="info" %}
+-  **Изображение при наведении:** max. 440×440 px (За размер изображения отвечает настройка кол-ва в ряд элементов виджета "Каталог товаров" [Смотреть ниже](./trebovaniya-k-izobrazheniyam#katalog-tovarov))
+
+-  **Иконка категории:** 50×50 px (отображается для дочерних категорий в меню сайта)
+
+-  **Изображение для задвоенного вида:** 920×440 px
+
+-  **Изображение при наведении для задвоенного вида:** 920×440 px
+
+:::info 
+
 **Примечание:** Изображения для задвоенного вида используются только в виджете «Каталог товаров» при включении соответствующей настройки.
-{% endhint %}
 
-Подробнее о категории в статье: [Категории продукции](../product/kategorii.md)
+:::
 
-<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+
+
+Подробнее о категории в статье: [Категории продукции](./../product/kategorii)
+
+<figure>
+
+![](<../.gitbook/assets/image (108).png>)
+
+<figcaption>
+
+
+
+</figcaption>
+
+</figure>
 
 
 
@@ -47,40 +68,51 @@ icon: arrows-maximize
 
 ### **Товары**
 
-**Где загрузить:** Продукция → Выбрать товар → вкладка «Изображения».
+**Где загрузить:** Продукция -> Выбрать товар -> вкладка «Изображения».
 
-* **Изображение (Фото тизера)**&#x20;
-* **Изображение при наведении**
-* **Изображение для задвоенного вида**
-* **Изображение при наведении для задвоенного вида**
+-  **Изображение (Фото тизера)**
+
+-  **Изображение при наведении**
+
+-  **Изображение для задвоенного вида**
+
+-  **Изображение при наведении для задвоенного вида**
 
 Размер зависит от настройки кол-ва в ряд элементов виджета "Рекомендуемая продукция". Размер изображений смотреть по таблице ниже.
 
 | Количество элементов в строке | Изображение и Изображение при наведении | Для задвоенного вида | Мобильная версия |
-| ----------------------------- | --------------------------------------- | -------------------- | ---------------- |
+|-------------------------------|-----------------------------------------|----------------------|------------------|
 | 3                             | 440×440 px                              | 920×440 px           | 250×250 px       |
 | 4                             | 320×320 px                              | 680×320 px           | 250×250 px       |
 | 6                             | 200×200 px                              | 440×200 px           | 250×250 px       |
 
 
 
-* **Иконка:** 50×50 px (отображается в раскрывающемся меню на сайте)
+-  **Иконка:** 50×50 px (отображается в раскрывающемся меню на сайте)
 
-{% hint style="info" %}
+:::info 
+
 **Примечание:** Изображения для задвоенного вида отображаются в виджете «Каталог товаров» при выборе отображения «Меню слева» или «Меню сверху».
-{% endhint %}
 
-Подробнее о настройке товара в статье: [Вкладка Изображения](../product/produkty/vkladka-izobrazheniya.md)
+:::
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+Подробнее о настройке товара в статье: [Вкладка Изображения](./../product/produkty/vkladka-izobrazheniya)
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tabs]
+
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam.png){width=768px height=287px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-2.png){width=768px height=337px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -90,21 +122,27 @@ icon: arrows-maximize
 
 ### **Пункт самовывоза**
 
-**Где загрузить:** Настройки → Доставка → Филиалы → Пункты выдачи → Редактировать.
+**Где загрузить:** Настройки -> Доставка -> Филиалы -> Пункты выдачи -> Редактировать.
 
-* **Изображение:** 680×390 px
+-  **Изображение:** 680×390 px
 
-Подробнее о настройке пунктов самовывоза в статье: [Филиалы](../settings/dostavka/filialy.md)
+Подробнее о настройке пунктов самовывоза в статье: [Филиалы](./../settings/dostavka/filialy)
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[tabs]
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam-3.png){width=768px height=351px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-4.png){width=768px height=363px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -114,26 +152,35 @@ icon: arrows-maximize
 
 ### **Логотип и Фавикон сайта**
 
-**Где загрузить:** Настройки → Дизайн сайта → Элементы дизайна.
+**Где загрузить:** Настройки -> Дизайн сайта -> Элементы дизайна.
 
 #### **Логотип:**
 
-* **Форматы:** JPEG, PNG
-* **Макс. размер файла:** 200 kB
-* **Макс. высота:** 70 px
-* **Макс. ширина:** 200 px
+-  **Форматы:** JPEG, PNG
 
-Подробнее о настройке логотипа в статье: [Элементы дизайна](../settings/dizain-saita/elementy-dizaina.md#logotip)
+-  **Макс. размер файла:** 200 kB
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+-  **Макс. высота:** 70 px
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+-  **Макс. ширина:** 200 px
+
+Подробнее о настройке логотипа в статье: [Элементы дизайна](./../settings/dizain-saita/elementy-dizaina#logotip)
+
+[tabs]
+
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam-5.png){width=768px height=392px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-6.png){width=1162px height=532px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -141,25 +188,33 @@ icon: arrows-maximize
 
 #### **Фавикон:**
 
-* **Форматы:** ICO, SVG
-* **Макс. размер файла:** 200 kB
-* **Рекомендуемый размер:** 50×50 px
+-  **Форматы:** ICO, SVG
 
-Подробнее о настройке фавикона в статье: [Элементы дизайна](../settings/dizain-saita/elementy-dizaina.md#favikon)
+-  **Макс. размер файла:** 200 kB
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+-  **Рекомендуемый размер:** 50×50 px
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+Подробнее о настройке фавикона в статье: [Элементы дизайна](./../settings/dizain-saita/elementy-dizaina#favikon)
+
+[tabs]
+
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam-7.png){width=224px height=73px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-8.png){width=768px height=277px}
+
+[/tab]
+
+[/tabs]
 
 
 
-<br>
+
 
 ## **Калькуляция**
 
@@ -169,19 +224,27 @@ icon: arrows-maximize
 
 Иконка отображается в карточке товара рядом с названием параметра. Размер зависит от типа отображения:
 
-* **Радио баттон с иконками:** 32×32 px
-* **Иконка:** 120×60 px
-* **Плитка:** 230×115 px
+-  **Радио баттон с иконками:** 32×32 px
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+-  **Иконка:** 120×60 px
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+-  **Плитка:** 230×115 px
+
+[tabs]
+
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam-9.png){width=694px height=370px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-10.png){width=768px height=411px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -193,19 +256,27 @@ icon: arrows-maximize
 
 Во многих модулях, у добавляемых компонентов/параметров/материалов имеется своя настройка и в каждой можно загрузить некоторые изображения:
 
-* **Картинка:** 300×300 px (отображается при наведении на параметр)
-* **Иконка:** 120×60 px (используется по умолчанию если отсутствует иконка из калькуляции)
-* **Иконка для внутр. пользования:** 20×20 px (отображается только в карточке заказа в админ-панели)
+-  **Картинка:** 300×300 px (отображается при наведении на параметр)
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+-  **Иконка:** 120×60 px (используется по умолчанию если отсутствует иконка из калькуляции)
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+-  **Иконка для внутр. пользования:** 20×20 px (отображается только в карточке заказа в админ-панели)
+
+[tabs]
+
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam-11.png){width=768px height=297px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-12.png){width=768px height=470px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -220,29 +291,35 @@ icon: arrows-maximize
 Размер изображений зависит от настроенного количества товаров в строке. Если виджет используется в нескольких местах, загружайте изображения максимального размера.
 
 | Количество элементов в строке | Изображение и Изображение при наведении | Для задвоенного вида | Мобильная версия |
-| ----------------------------- | --------------------------------------- | -------------------- | ---------------- |
+|-------------------------------|-----------------------------------------|----------------------|------------------|
 | 3                             | 440×440 px                              | 920×440 px           | 250×250 px       |
 | 4                             | 320×320 px                              | 680×320 px           | 250×250 px       |
 | 6                             | 200×200 px                              | 440×200 px           | 250×250 px       |
 | 12                            | 80×80 px                                | 200×80 px            | 250×250 px       |
 
-* **Иконка:** 50×50 px (для дочерних категорий в меню).
+-  **Иконка:** 50×50 px (для дочерних категорий в меню).
 
-Подробнее о виджете Каталог товаров в статье: [Виджет «Каталог товаров»](../content/vidzhety/vidzhet-katalog-tovarov.md)
+Подробнее о виджете Каталог товаров в статье: [Виджет «Каталог товаров»](./../content/vidzhety/vidzhet-katalog-tovarov)
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[tabs]
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam-13.png){width=768px height=306px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-14.png){width=768px height=342px}
 
 Настройка задвоенного вида
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+![](./trebovaniya-k-izobrazheniyam-15.png){width=768px height=394px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -255,24 +332,30 @@ icon: arrows-maximize
 Рекомендуемый размер зависит от настроенного количества изображений в строке.
 
 | Количество изображений в строке | Рекомендуемый размер | Мобильная версия |
-| ------------------------------- | -------------------- | ---------------- |
+|---------------------------------|----------------------|------------------|
 | 1                               | 680×680 px           | 375×375 px       |
 | 2                               | 440×440 px           | 375×375 px       |
 | 3                               | 320×320 px           | 375×375 px       |
 | 4                               | 290×290 px           | 375×375 px       |
 | 6                               | 180×180 px           | 375×375 px       |
 
-Подробнее о виджете Фото-карусель в статье: [Виджет «Фото-карусель»](../content/vidzhety/vidzhet-foto-karusel.md)
+Подробнее о виджете Фото-карусель в статье: [Виджет «Фото-карусель»](./../content/vidzhety/vidzhet-foto-karusel)
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[tabs]
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam-16.png){width=768px height=254px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-17.png){width=768px height=508px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -284,20 +367,27 @@ icon: arrows-maximize
 
 Размер зависит от высоты, которая задается вручную, и ширины виджета.
 
-* **По ширине контента:** макс. 1320 px (на мобильных: 375 px)
-* **На всю ширину:** макс. 1920 px (на мобильных: 375 px)
+-  **По ширине контента:** макс. 1320 px (на мобильных: 375 px)
 
-Подробнее о виджете Слайдер в статье: [Виджет «Слайдер»](../content/vidzhety/vidzhet-slaider.md)
+-  **На всю ширину:** макс. 1920 px (на мобильных: 375 px)
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+Подробнее о виджете Слайдер в статье: [Виджет «Слайдер»](./../content/vidzhety/vidzhet-slaider)
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tabs]
+
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam-28.png){width=768px height=251px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-29.png){width=768px height=356px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -307,19 +397,25 @@ icon: arrows-maximize
 
 ### **Как работает онлайн-заказ**
 
-* **Размер:** 120×120 px (на мобильных: 120×120 px). Размер фиксирован и не зависит от количества элементов в строке.
+-  **Размер:** 120×120 px (на мобильных: 120×120 px). Размер фиксирован и не зависит от количества элементов в строке.
 
-Подробнее о виджете Как работает онлайн-заказ в статье: [Виджет «Как работает онлайн-заказ»](../content/vidzhety/vidzhet-kak-rabotaet-onlain-zakaz.md)
+Подробнее о виджете Как работает онлайн-заказ в статье: [Виджет «Как работает онлайн-заказ»](./../content/vidzhety/vidzhet-kak-rabotaet-onlain-zakaz)
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[tabs]
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam-18.png){width=768px height=255px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-19.png){width=768px height=474px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -333,29 +429,41 @@ icon: arrows-maximize
 
 **Тип отображения «Слайдер»:**
 
-* 4 в ряд: 290×69 px
-* 6 в ряд: 180×69 px
-* 12 в ряд: 70×69 px
-* **Мобильная версия:** 250×69 px
+-  4 в ряд: 290×69 px
+
+-  6 в ряд: 180×69 px
+
+-  12 в ряд: 70×69 px
+
+-  **Мобильная версия:** 250×69 px
 
 **Тип отображения «Список»:**
 
-* 4 в ряд: 320×69 px
-* 6 в ряд: 200×69 px
-* 12 в ряд: 80×69 px
-* **Мобильная версия:** 164×69 px
+-  4 в ряд: 320×69 px
 
-Подробнее о виджете Логотипы в статье: [Виджет «Логотипы»](../content/vidzhety/vidzhet-logotipy.md)
+-  6 в ряд: 200×69 px
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+-  12 в ряд: 80×69 px
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+-  **Мобильная версия:** 164×69 px
+
+Подробнее о виджете Логотипы в статье: [Виджет «Логотипы»](./../content/vidzhety/vidzhet-logotipy)
+
+[tabs]
+
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam-20.png){width=768px height=159px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-21.png){width=768px height=547px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -367,20 +475,27 @@ icon: arrows-maximize
 
 Высота задается вручную, ширина зависит от настройки "Ширина":
 
-* **По ширине контента:** макс. 1400 px (на мобильных: 375 px)
-* **На всю ширину:** макс. 1920 px (на мобильных: 375 px)
+-  **По ширине контента:** макс. 1400 px (на мобильных: 375 px)
 
-Подробнее о виджете Рекламный баннер в статье: [Виджет «Рекламный баннер»](../content/vidzhety/vidzhet-reklamnyi-banner.md)
+-  **На всю ширину:** макс. 1920 px (на мобильных: 375 px)
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+Подробнее о виджете Рекламный баннер в статье: [Виджет «Рекламный баннер»](./../content/vidzhety/vidzhet-reklamnyi-banner)
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tabs]
+
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam-22.png){width=768px height=143px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-23.png){width=768px height=413px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -390,19 +505,25 @@ icon: arrows-maximize
 
 ### **Преимущества**
 
-* **Размер:** 120×120 px (на мобильных: 120×120 px). Размер фиксирован.
+-  **Размер:** 120×120 px (на мобильных: 120×120 px). Размер фиксирован.
 
-Подробнее о виджете Преимущество в статье: [Виджет «Преимущества»](../content/vidzhety/vidzhet-preimushestva.md)
+Подробнее о виджете Преимущество в статье: [Виджет «Преимущества»](./../content/vidzhety/vidzhet-preimushestva)
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[tabs]
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tab:Сайт]
+
+![](./trebovaniya-k-izobrazheniyam-24.png){width=768px height=150px}
+
+[/tab]
+
+[tab:Админ-панель]
+
+![](./trebovaniya-k-izobrazheniyam-25.png){width=768px height=449px}
+
+[/tab]
+
+[/tabs]
 
 
 
@@ -412,19 +533,20 @@ icon: arrows-maximize
 
 ### **Преимущества mini**
 
-* **Размер:** 40×40 px (на мобильных: 40×40 px). Размер фиксирован.
+-  **Размер:** 40×40 px (на мобильных: 40×40 px). Размер фиксирован.
 
-{% tabs %}
-{% tab title="Сайт" %}
-<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[tabs]
 
-{% tab title="Админ-панель" %}
-<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+[tab:Сайт]
 
+![](./trebovaniya-k-izobrazheniyam-26.png){width=768px height=200px}
 
+[/tab]
 
+[tab:Админ-панель]
 
+![](./trebovaniya-k-izobrazheniyam-27.png){width=768px height=442px}
 
+[/tab]
+
+[/tabs]
