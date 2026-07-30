@@ -39,8 +39,6 @@ order: 2
 
 **Вебинар по теме:**
 
-"https://vkvideo.ru/video-150544481_456239084
+[Ссылка на VK Видео](https://vkvideo.ru/video-150544481_456239084)
 
-
-
-https://youtu.be/t33kLKONxOI?t=728
+[video:https://youtu.be/t33kLKONxOI?t=728]

@@ -176,8 +176,6 @@ title: Яндекс.Метрика
 
 ## **Видеоинструкция**
 
-https://vkvideo.ru/video-150544481_456239071
+[Ссылка на VK Видео](https://vkvideo.ru/video-150544481_456239071)
 
-
-
-https://www.youtube.com/watch?v=xBko1ZPnZLg
+[video:https://www.youtube.com/watch?v=xBko1ZPnZLg]

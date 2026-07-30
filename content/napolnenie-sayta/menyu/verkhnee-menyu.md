@@ -160,6 +160,8 @@ title: Верхнее меню
 
 **Новый вид отображения подпунктов меню -- «Мегаменю».**
 
-https://vkvideo.ru/video-150544481_456239073?t=15m55s
 
-https://youtu.be/Uv6DFnWqp2o?t=955
+
+[Ссылка на VK Видео](https://vkvideo.ru/video-150544481_456239073?t=15m55s)
+
+[video:https://youtu.be/Uv6DFnWqp2o?t=955]

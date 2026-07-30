@@ -131,8 +131,8 @@ order: 0.96
 
 **Назначение и принцип работы модуля Отгрузок:**
 
-https://vkvideo.ru/video-150544481_456239072?t=20m00s
 
 
+[Ссылка на VK Видео](https://vkvideo.ru/video-150544481_456239072?t=20m00s)
 
-https://youtu.be/3kPbJYNpxq0?t=1200
+[video:https://youtu.be/3kPbJYNpxq0?t=1200]

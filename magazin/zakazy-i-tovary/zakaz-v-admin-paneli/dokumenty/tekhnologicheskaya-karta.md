@@ -192,4 +192,4 @@ https://vkvideo.ru/video-150544481_456239071?t=1m4s
 
 
 
-https://youtu.be/xBko1ZPnZLg?t=66" fullWidth="false
+[video:https://youtu.be/xBko1ZPnZLg?t=66\" fullWidth=\"false]

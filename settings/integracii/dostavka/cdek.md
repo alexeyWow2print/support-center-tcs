@@ -10,11 +10,9 @@ order: 0.5
 
 ## Видеоинструкция
 
-https://vkvideo.ru/video-150544481_456239080
+[Ссылка на VK Видео](https://vkvideo.ru/video-150544481_456239080)
 
-
-
-https://www.youtube.com/watch?t=50s&v=-Y2OUuCA6Co
+[video:https://www.youtube.com/watch?t=50s&v=-Y2OUuCA6Co]
 
 
 

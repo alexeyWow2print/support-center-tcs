@@ -7,7 +7,7 @@ order: 7
 
 ### Trusted Shops
 
-Для интеграции нужно быть действующим участником "Trusted Shops". 
+Для интеграции нужно быть действующим участником "Trusted Shops".
 
 На сайте "Trusted Shops", на странице <https://support.trustedshops.com/de/apps/generator> введите URL или идентификатор своего магазина ниже (идентификатор доверенного магазина от "Trusted Shops"), чтобы создать свой персональный код.
 
@@ -65,20 +65,16 @@ order: 7
 
 
 
-### Видеоинструкция 
+### Видеоинструкция
 
-https://vkvideo.ru/video-150544481_456239082
+[Ссылка на VK Видео](https://vkvideo.ru/video-150544481_456239082)
 
-
-
-https://youtu.be/D04UCKhLguY
+[video:https://youtu.be/D04UCKhLguY]
 
 
 
 **Видеоинструкция с вебинара:**
 
-"https://vkvideo.ru/video-150544481_456239083
+[Ссылка на VK Видео](https://vkvideo.ru/video-150544481_456239083)
 
-
-
-https://youtu.be/J3MzcVx1cC8
+[video:https://youtu.be/J3MzcVx1cC8]
