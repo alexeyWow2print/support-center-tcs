@@ -1,6 +1,6 @@
 ---
 order: 14
-title: 💬 FAQ — Частые вопросы.
+title: 💬 FAQ — Частые вопросы
 ---
 
 [view:hierarchy=none::::List]

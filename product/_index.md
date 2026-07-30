@@ -1,6 +1,6 @@
 ---
 order: 6
-title: 🛍️ Продукция.
+title: 🛍️ Продукция
 ---
 
 [view:hierarchy=none::::List]

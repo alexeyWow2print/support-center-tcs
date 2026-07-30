@@ -1,6 +1,6 @@
 ---
 order: 9
-title: 📗 Справочник.
+title: 📗 Справочник
 ---
 
 [view:hierarchy=none::::List]

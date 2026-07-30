@@ -18,7 +18,7 @@ title: ВКонтакте
 
 <figure>
 
-![](../../../.gitbook/assets/Screenshot_001.png)
+![](./Screenshot_001.png)
 
 <figcaption>
 
@@ -32,7 +32,7 @@ title: ВКонтакте
 
 <figure>
 
-![](<../../../.gitbook/assets/image (37).png>)
+![](<./image (37).png>)
 
 <figcaption>
 
@@ -68,7 +68,7 @@ title: ВКонтакте
 
 <figure>
 
-![](../../../.gitbook/assets/Screenshot_3.png)
+![](./Screenshot_3.png)
 
 <figcaption>
 
@@ -90,7 +90,7 @@ title: ВКонтакте
 
 <figure>
 
-![](../../../.gitbook/assets/Screenshot_4.png)
+![](./Screenshot_4.png)
 
 <figcaption>
 
@@ -113,7 +113,7 @@ title: ВКонтакте
 
 <figure>
 
-![](../../../.gitbook/assets/Screenshot_11.png)
+![](./Screenshot_11.png)
 
 <figcaption>
 
@@ -127,7 +127,7 @@ title: ВКонтакте
 
 <figure>
 
-![](../../../.gitbook/assets/Screenshot_6.png)
+![](./Screenshot_6.png)
 
 <figcaption>
 
@@ -141,7 +141,7 @@ title: ВКонтакте
 
 <figure>
 
-![](<../../../.gitbook/assets/Screenshot_12 (11).png>)
+![](<./Screenshot_12 (11).png>)
 
 <figcaption>
 
@@ -159,7 +159,7 @@ title: ВКонтакте
 
 <figure>
 
-![](../../../.gitbook/assets/Screenshot_8.png)
+![](./Screenshot_8.png)
 
 <figcaption>
 
@@ -173,7 +173,7 @@ title: ВКонтакте
 
 <figure>
 
-![](<../../../.gitbook/assets/Screenshot_13 (9).png>)
+![](<./Screenshot_13 (9).png>)
 
 <figcaption>
 
@@ -205,7 +205,7 @@ title: ВКонтакте
 
 <figure>
 
-![](../../../.gitbook/assets/Screenshot_9.png)
+![](./Screenshot_9.png)
 
 <figcaption>
 
@@ -225,7 +225,7 @@ title: ВКонтакте
 
 <figure>
 
-![](<../../../.gitbook/assets/image (39).png>)
+![](<./image (39).png>)
 
 <figcaption>
 
@@ -243,7 +243,7 @@ title: ВКонтакте
 
 <figure>
 
-![](<../../../.gitbook/assets/image (40).png>)
+![](<./image (40).png>)
 
 <figcaption>
 

@@ -1,6 +1,6 @@
 ---
 order: 8
-title: 📝 Контент.
+title: 📝 Контент
 ---
 
 [view:hierarchy=none::::List]

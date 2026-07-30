@@ -633,7 +633,7 @@ order: 3.5
 
       -  [Авторизация через соцсети](./settings/drugie-nastroiki/avtorizaciya-cherez-socseti/README)
 
-         -  [ВКонтакте](./settings/drugie-nastroiki/avtorizaciya-cherez-socseti/vkontakte)
+         -  [ВКонтакте](./settings/integracii/avtorizaciya-cherez-socseti/vkontakte)
 
          -  [Яндекс](./settings/drugie-nastroiki/avtorizaciya-cherez-socseti/yandeks)
 

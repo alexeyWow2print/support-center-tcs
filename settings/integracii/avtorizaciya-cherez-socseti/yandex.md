@@ -18,7 +18,7 @@ title: Яндекс
 
 <figure>
 
-![](<../../../.gitbook/assets/Screenshot_1 (14).png>)
+![](<./Screenshot_1 (14).png>)
 
 <figcaption>
 
@@ -36,7 +36,7 @@ title: Яндекс
 
 <figure>
 
-![](<../../../.gitbook/assets/Screenshot_2 (20).png>)
+![](<./Screenshot_2 (20).png>)
 
 <figcaption>
 

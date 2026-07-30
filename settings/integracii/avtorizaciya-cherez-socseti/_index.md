@@ -1,6 +1,6 @@
 ---
-order: 4.96
-title: Авторизация через соцсети
+order: 5.86
+title: Сервисы авторизации
 ---
 
 Сайтом предусмотрена возможность настройки авторизации клиентов через социальные сети Вконтакте, Facebook и Яндекс.
@@ -73,7 +73,7 @@ Facebook -> <https://developers.facebook.com/apps/>
 
 <figure>
 
-![](<../../../.gitbook/assets/Screenshot_3 (32).png>)
+![](<./Screenshot_3 (32).png>)
 
 <figcaption>
 

@@ -1,6 +1,6 @@
 ---
 order: 5
-title: 🛒 Магазин.
+title: 🛒 Магазин
 ---
 
 [view:hierarchy=none::::List]

@@ -1,6 +1,6 @@
 ---
 order: 10
-title: 🧰 Конструктор.
+title: 🧰 Конструктор
 ---
 
 [view:hierarchy=none::::List]
