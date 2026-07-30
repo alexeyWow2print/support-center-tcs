@@ -5,7 +5,7 @@ order: 1.5
 
 :::danger 
 
-Если вам необходимо настроить мета-теги страницы (title, description, keywords и canonical link), то их необходимо настраивать в настройках конкретной страницы сайта в разделе [страницы](https://support.wow2print.com/content/untitled/stranicy) или [продукция](https://support.wow2print.com/product). У каждой страницы сайта имеется вкладка SEO с соответствующими настройками.
+Если вам необходимо настроить мета-теги страницы (title, description, keywords и canonical link), то их необходимо настраивать в настройках конкретной страницы сайта в разделе [страницы](./../napolnenie-sayta/stranicy/_index) или [продукция](./../../product/_index). У каждой страницы сайта имеется вкладка SEO с соответствующими настройками.
 
 :::
 
