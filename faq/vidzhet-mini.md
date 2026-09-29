@@ -51,7 +51,7 @@ title: JS-Виджет для тарифа MINI
 
 Перейдите в раздел **Настройки -> Интеграции -> JS-виджет**.
 
-![](./vidzhet-dlya-tarifa-mini-4.png){width=1143px height=873px}
+![](./vidzhet-mini-7.png){width=995px height=869px}
 
 
 
